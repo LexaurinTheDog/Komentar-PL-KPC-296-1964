@@ -828,7 +828,7 @@ Przepis wylicza okoliczności, które sąd bierze pod rozwagę z urzędu w każd
 
 > Art. 202¹. Jeżeli strony przed wszczęciem postępowania sądowego zawarły umowę o mediację, sąd kieruje strony do mediacji na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy.
 
-Przepis wiąże skutki procesowe z wcześniejszym zawarciem przez strony umowy o mediację. Jeżeli strony przed wszczęciem postępowania sądowego zawarły taką umowę, sąd kieruje strony do mediacji, lecz nie z urzędu, a wyłącznie na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy – konstrukcja ta respektuje wcześniejsze zobowiązanie stron do podjęcia próby mediacji, jednocześnie pozostawiając inicjatywę w tym zakresie pozwanemu, który może also zrezygnować z powoływania się na klauzulę mediacyjną.
+Przepis wiąże skutki procesowe z wcześniejszym zawarciem przez strony umowy o mediację. Jeżeli strony przed wszczęciem postępowania sądowego zawarły taką umowę, sąd kieruje strony do mediacji, lecz nie z urzędu, a wyłącznie na zarzut pozwanego zgłoszony przed wdaniem się w spór co do istoty sprawy – konstrukcja ta respektuje wcześniejsze zobowiązanie stron do podjęcia próby mediacji, jednocześnie pozostawiając inicjatywę w tym zakresie pozwanemu, który może również zrezygnować z powoływania się na klauzulę mediacyjną.
 
 ### Art. 203
 
