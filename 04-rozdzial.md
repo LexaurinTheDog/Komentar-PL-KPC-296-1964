@@ -20,9 +20,9 @@ Przepis otwiera rozdział poświęcony terminom procesowym i definiuje moment ro
 >
 > § 3. To samo dotyczy złożenia pisma przez żołnierza w dowództwie jednostki wojskowej albo przez osobę pozbawioną wolności w administracji zakładu karnego oraz przez członka załogi polskiego statku morskiego u kapitana statku.
 >
-> § 4. Wprowadzenie pisma procesowego do systemu teleinformatycznego lub jego umieszczenie w portalu informacyjnym i otrzymanie przez wnoszącego dokumentu w postaci elektronicznej potwierdzającego wniesienie pisma do sądu jest równoznaczne z wniesieniem tego pisma do sądu, jeżeli przepis szczególny przewiduje taki sposób wniesienia pisma procesowego. Pismo procesowe uważa się za wniesione do sądu z chwilą określoną w elektronicznym potwierdzeniu wniesienia tego pisma do sądu.
+> § 4.⁽³⁹⁾ Wprowadzenie pisma procesowego do systemu teleinformatycznego lub jego umieszczenie w portalu informacyjnym i otrzymanie przez wnoszącego dokumentu w postaci elektronicznej potwierdzającego wniesienie pisma do sądu jest równoznaczne z wniesieniem tego pisma do sądu, jeżeli przepis szczególny przewiduje taki sposób wniesienia pisma procesowego. Pismo procesowe uważa się za wniesione do sądu z chwilą określoną w elektronicznym potwierdzeniu wniesienia tego pisma do sądu.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 39) W brzmieniu ustalonym przez art. 1 pkt 15 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje sposób obliczania terminów procesowych oraz określa zdarzenia, których wystąpienie jest równoznaczne z wniesieniem pisma procesowego do sądu, mimo że pismo fizycznie do sądu jeszcze nie dotarło. Paragraf 1 odsyła w zakresie metody obliczania terminów do przepisów prawa cywilnego, a więc w praktyce do reguł Kodeksu cywilnego dotyczących sposobu liczenia terminów oznaczonych w dniach, tygodniach, miesiącach i latach; odesłanie to obejmuje zarówno terminy ustawowe, jak i terminy sądowe. Paragraf 2 wprowadza tzw. zasadę daty stempla pocztowego – oddanie pisma procesowego polskiej placówce operatora pocztowego świadczącego usługi powszechne, a od niedawna także zagranicznej placówce pocztowej operatora świadczącego takie usługi na terytorium innego państwa członkowskiego Unii Europejskiej, jest równoznaczne z wniesieniem pisma do sądu; strona nie ponosi zatem ryzyka opóźnień w doręczeniu przesyłki przez operatora. Paragraf 3 rozszerza tę zasadę na szczególne kategorie nadawców, którzy z przyczyn obiektywnych nie mają dostępu do zwykłej placówki pocztowej – żołnierza składającego pismo w dowództwie jednostki wojskowej, osobę pozbawioną wolności składającą pismo w administracji zakładu karnego oraz członka załogi polskiego statku morskiego składającego pismo u kapitana statku. Paragraf 4, wprowadzony nowelizacją wskazaną w przypisie urzędowym, statuuje analogiczną zasadę dla wnoszenia pism w postaci elektronicznej za pośrednictwem systemu teleinformatycznego lub portalu informacyjnego, o ile przepis szczególny przewiduje taki sposób wnoszenia pism; decydująca jest wówczas chwila określona w elektronicznym potwierdzeniu wniesienia pisma, a nie chwila jego faktycznego zarejestrowania przez sąd. Przepis ten stanowi więc fundament dla oceny terminowości niemal każdej czynności procesowej dokonywanej w formie pisemnej.
 
@@ -412,21 +412,21 @@ Przepis określa obligatoryjną treść wniosku o przeprowadzenie mediacji, anal
 
 **Brzmienie przepisu:**
 
-> Art. 183⁸. § 1. Sąd może skierować strony do mediacji na każdym etapie postępowania. Postanowienia o skierowaniu stron do mediacji, zmianie mediatora lub przedłużeniu terminu na przeprowadzenie mediacji może wydać referendarz sądowy. § 2. Mediacji nie prowadzi się, jeżeli strona sprzeciwi się jej w terminie tygodnia od dnia ogłoszenia lub doręczenia jej postanowienia kierującego strony do mediacji, chyba że przed wydaniem postanowienia wyraziła zgodę na prowadzenie mediacji.
+> Art. 183⁸. § 1. Sąd może skierować strony do mediacji na każdym etapie postępowania. Postanowienia o skierowaniu stron do mediacji, zmianie mediatora lub przedłużeniu terminu na przeprowadzenie mediacji może wydać referendarz sądowy.⁽⁴⁰⁾ § 2.⁽⁴¹⁾ Mediacji nie prowadzi się, jeżeli strona sprzeciwi się jej w terminie tygodnia od dnia ogłoszenia lub doręczenia jej postanowienia kierującego strony do mediacji, chyba że przed wydaniem postanowienia wyraziła zgodę na prowadzenie mediacji.
 >
 > § 3. Przepisu § 1 nie stosuje się w sprawach rozpoznawanych w postępowaniach upominawczym oraz nakazowym, chyba że doszło do skutecznego wniesienia zarzutów.
 >
-> § 4. Przewodniczący lub referendarz sądowy może wezwać strony do udziału w spotkaniu informacyjnym dotyczącym polubownych metod rozwiązywania sporów, w szczególności mediacji. Spotkanie informacyjne może prowadzić sędzia, referendarz sądowy, urzędnik sądowy, asystent sędziego lub stały mediator.
+> § 4. Przewodniczący lub referendarz sądowy może wezwać strony do udziału w spotkaniu informacyjnym dotyczącym polubownych metod rozwiązywania sporów, w szczególności mediacji.⁽⁴²⁾ Spotkanie informacyjne może prowadzić sędzia, referendarz sądowy, urzędnik sądowy, asystent sędziego lub stały mediator.
 >
 > § 5. Przed pierwszym posiedzeniem wyznaczonym na rozprawę przewodniczący dokonuje oceny, czy skierować strony do mediacji. W tym celu przewodniczący, jeżeli zachodzi potrzeba wysłuchania stron, może wezwać je do osobistego stawiennictwa na posiedzeniu niejawnym.
 >
 > § 6. Jeżeli strona bez uzasadnienia nie stawi się na spotkanie informacyjne lub posiedzenie niejawne, sąd może obciążyć ją kosztami nakazanego stawiennictwa poniesionymi przez stronę przeciwną.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie dodane przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 40) Zdanie drugie dodane przez art. 1 pkt 16 lit. a ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 16 lit. b ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 41) W brzmieniu ustalonym przez art. 1 pkt 16 lit. b ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
 
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 16 lit. c ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 42) Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 16 lit. c ustawy, o której mowa w odnośniku 11; weszła w życie z dniem 10 września 2025 r.
 
 Przepis reguluje kierowanie stron do mediacji przez sąd w toku już wszczętego postępowania. Paragraf 1 przyznaje sądowi kompetencję do skierowania stron do mediacji na każdym etapie postępowania, przy czym postanowienia o skierowaniu do mediacji, zmianie mediatora lub przedłużeniu terminu na przeprowadzenie mediacji może wydawać także referendarz sądowy, co odciąża sędziów w czynnościach o charakterze w istocie organizacyjnym. Paragraf 2 chroni dobrowolność mediacji także na etapie mediacji sądowej – nie prowadzi się jej, jeżeli strona sprzeciwi się w terminie tygodnia od ogłoszenia lub doręczenia postanowienia kierującego, chyba że przed jego wydaniem wyraziła zgodę na mediację. Paragraf 3 wyłącza stosowanie § 1 w sprawach rozpoznawanych w postępowaniu upominawczym oraz nakazowym, chyba że doszło do skutecznego wniesienia zarzutów – co uzasadnione jest uproszczonym, jednostronnym na wstępnym etapie charakterem tych postępowań. Paragraf 4 umożliwia przewodniczącemu lub referendarzowi sądowemu wezwanie stron do udziału w spotkaniu informacyjnym dotyczącym polubownych metod rozwiązywania sporów, które może prowadzić sędzia, referendarz, urzędnik sądowy, asystent sędziego lub stały mediator – rozwiązanie to ma promować mediację przez zwiększanie świadomości stron o jej zaletach. Paragraf 5 nakłada na przewodniczącego obowiązek dokonania przed pierwszym posiedzeniem wyznaczonym na rozprawę oceny, czy skierować strony do mediacji, w razie potrzeby po wysłuchaniu stron na posiedzeniu niejawnym. Paragraf 6, którego zdanie drugie oraz zmiany redakcyjne wprowadzono nowelizacją wskazaną w przypisach urzędowych, pozwala sądowi obciążyć stronę, która bez uzasadnienia nie stawiła się na spotkanie informacyjne lub posiedzenie niejawne, kosztami nakazanego stawiennictwa poniesionymi przez stronę przeciwną – jest to sankcja dyscyplinująca mająca skłaniać strony do poważnego traktowania inicjatyw mediacyjnych sądu.
 
@@ -438,9 +438,9 @@ Przepis reguluje kierowanie stron do mediacji przez sąd w toku już wszczętego
 >
 > § 2. Mediator ma prawo do zapoznania się z aktami sprawy, chyba że strona w terminie tygodnia od dnia ogłoszenia lub doręczenia postanowienia kierującego strony do mediacji nie wyrazi zgody na zapoznanie się mediatora z aktami.
 >
-> § 3. Przewodniczący niezwłocznie przekazuje mediatorowi w uzgodniony z nim sposób dane kontaktowe stron oraz ich pełnomocników, obejmujące adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, jeżeli znajdują się w aktach sądowych.
+> § 3.⁽⁴³⁾ Przewodniczący niezwłocznie przekazuje mediatorowi w uzgodniony z nim sposób dane kontaktowe stron oraz ich pełnomocników, obejmujące adres korespondencyjny, numer telefonu lub adres poczty elektronicznej, jeżeli znajdują się w aktach sądowych.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 43) W brzmieniu ustalonym przez art. 1 pkt 17 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
 
 Przepis reguluje wyznaczanie mediatora przez sąd oraz zasady dostępu mediatora do akt sprawy. Paragraf 1 przewiduje, że jeżeli strony nie dokonały wyboru mediatora, sąd kierujący je do mediacji wyznacza mediatora mającego odpowiednią wiedzę i umiejętności w zakresie prowadzenia mediacji w sprawach danego rodzaju, biorąc pod uwagę w pierwszej kolejności stałych mediatorów – co ma zapewnić odpowiednią jakość i fachowość prowadzonej mediacji. Paragraf 2 przyznaje mediatorowi prawo zapoznania się z aktami sprawy, chyba że strona w terminie tygodnia od ogłoszenia lub doręczenia postanowienia kierującego do mediacji nie wyrazi na to zgody – dostęp do akt ułatwia mediatorowi zrozumienie istoty sporu, jednak podlega kontroli stron ze względu na poufność akt sądowych. Paragraf 3, w brzmieniu ustalonym nowelizacją wskazaną w przypisie urzędowym, nakłada na przewodniczącego obowiązek niezwłocznego przekazania mediatorowi w uzgodniony z nim sposób danych kontaktowych stron i ich pełnomocników (adres korespondencyjny, numer telefonu, adres poczty elektronicznej), o ile znajdują się w aktach sądowych, co ma usprawnić praktyczne nawiązanie kontaktu przez mediatora ze stronami.
 
@@ -472,11 +472,11 @@ Przepis reguluje organizację posiedzenia mediacyjnego. Mediator niezwłocznie u
 >
 > § 2¹. Przez podpisanie ugody strony wyrażają zgodę na wystąpienie do sądu z wnioskiem o jej zatwierdzenie, o czym mediator informuje strony.
 >
-> § 2². Protokół lub ugoda w postaci elektronicznej mogą zostać opatrzone kwalifikowanym podpisem elektronicznym.
+> § 2².⁽⁴⁴⁾ Protokół lub ugoda w postaci elektronicznej mogą zostać opatrzone kwalifikowanym podpisem elektronicznym.
 >
 > § 3. Mediator doręcza stronom odpis protokołu.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 44) Dodany przez art. 1 pkt 18 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
 
 Przepis reguluje dokumentowanie przebiegu mediacji. Paragraf 1 nakłada na mediatora obowiązek sporządzenia protokołu z przebiegu mediacji, oznaczającego miejsce i czas jej przeprowadzenia, dane stron oraz mediatora, a także wynik mediacji; protokół podpisuje mediator. Paragraf 2 reguluje sposób dokumentowania zawartej ugody – jej treść zamieszcza się w protokole albo załącza się do niego jako odrębny dokument, a strony podpisują ugodę; niemożność podpisania ugody mediator stwierdza w protokole. Paragraf 2¹, wprowadzony nowelizacją wskazaną w przypisie urzędowym, precyzuje skutek podpisania ugody – strony wyrażają przez to zgodę na wystąpienie do sądu z wnioskiem o jej zatwierdzenie, o czym mediator ma obowiązek je poinformować. Paragraf 2² dopuszcza opatrzenie protokołu lub ugody sporządzonych w postaci elektronicznej kwalifikowanym podpisem elektronicznym, co umożliwia prowadzenie mediacji i dokumentowanie jej wyników w pełni elektronicznie. Paragraf 3 nakłada na mediatora obowiązek doręczenia stronom odpisu protokołu.
 
@@ -484,21 +484,19 @@ Przepis reguluje dokumentowanie przebiegu mediacji. Paragraf 1 nakłada na media
 
 **Brzmienie przepisu:**
 
-> Art. 183¹³. § 1. Strona, po zawarciu ugody w ramach mediacji prowadzonej na podstawie umowy o mediację, może wystąpić z wnioskiem o zatwierdzenie ugody, do sądu rejonowego właściwego ze względu na miejsce zawarcia ugody, chyba że strony w ugodzie wskażą inny sąd rejonowy. W braku tych podstaw właściwy jest sąd rejonowy miejsca zamieszkania albo siedziby wnioskodawcy.
+> Art. 183¹³. § 1.⁽⁴⁵⁾ Strona, po zawarciu ugody w ramach mediacji prowadzonej na podstawie umowy o mediację, może wystąpić z wnioskiem o zatwierdzenie ugody, do sądu rejonowego właściwego ze względu na miejsce zawarcia ugody, chyba że strony w ugodzie wskażą inny sąd rejonowy. W braku tych podstaw właściwy jest sąd rejonowy miejsca zamieszkania albo siedziby wnioskodawcy.
 >
-> § 1¹. Do wniosku, o którym mowa w § 1, dołącza się protokół mediacji oraz ugodę, chyba że została ona zamieszczona w protokole mediacji, a w przypadku wniosku wniesionego za pośrednictwem portalu informacyjnego – dokumenty w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym albo poświadczone elektronicznie odpisy tych dokumentów.
+> § 1¹.⁽⁴⁶⁾ Do wniosku, o którym mowa w § 1, dołącza się protokół mediacji oraz ugodę, chyba że została ona zamieszczona w protokole mediacji, a w przypadku wniosku wniesionego za pośrednictwem portalu informacyjnego – dokumenty w postaci elektronicznej opatrzone kwalifikowanym podpisem elektronicznym albo poświadczone elektronicznie odpisy tych dokumentów.
 >
-> § 1². W postępowaniu o zatwierdzenie ugody zawartej w ramach mediacji prowadzonej na podstawie umowy o mediację, adwokat, radca prawny, rzecznik patentowy, Prokuratoria Generalna Rzeczypospolitej Polskiej albo prokurator wnosi wniosek oraz dalsze pisma procesowe za pośrednictwem portalu informacyjnego.
+> § 1².⁽⁴⁶⁾ W postępowaniu o zatwierdzenie ugody zawartej w ramach mediacji prowadzonej na podstawie umowy o mediację, adwokat, radca prawny, rzecznik patentowy, Prokuratoria Generalna Rzeczypospolitej Polskiej albo prokurator wnosi wniosek oraz dalsze pisma procesowe za pośrednictwem portalu informacyjnego.
 >
-> § 2. W razie skierowania przez sąd stron do mediacji mediator składa protokół oraz ugodę, o ile została zawarta, w sądzie rozpoznającym sprawę. Strony mogą objąć ugodą również roszczenia nieobjęte pozwem.
+> § 2. W razie skierowania przez sąd stron do mediacji mediator składa protokół oraz ugodę, o ile została zawarta, w sądzie rozpoznającym sprawę.⁽⁴⁷⁾ Strony mogą objąć ugodą również roszczenia nieobjęte pozwem.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 19 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 45) W brzmieniu ustalonym przez art. 1 pkt 19 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 19 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 46) Dodany przez art. 1 pkt 19 lit. b ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 19 lit. b ustawy, o której mowa w odnośniku 11.
-
-*Odnośnik w tekście jednolitym:* Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 19 lit. c ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 47) Zdanie pierwsze w brzmieniu ustalonym przez art. 1 pkt 19 lit. c ustawy, o której mowa w odnośniku 11.
 
 Przepis, którego poszczególne jednostki redakcyjne pochodzą w części z nowelizacji wskazanej w przypisach urzędowych, reguluje tryb zatwierdzania ugody zawartej w ramach mediacji prowadzonej na podstawie umowy o mediację (a więc mediacji pozasądowej, wszczętej z inicjatywy strony). Paragraf 1 określa właściwość sądu rejonowego dla rozpoznania wniosku o zatwierdzenie takiej ugody – sądu miejsca jej zawarcia, chyba że strony wskazały w ugodzie inny sąd rejonowy, a w braku tych podstaw – sądu miejsca zamieszkania lub siedziby wnioskodawcy. Paragraf 1¹ określa załączniki do wniosku – protokół mediacji i ugodę, chyba że ugoda została zamieszczona w samym protokole, a w przypadku wniosku wniesionego przez portal informacyjny – dokumenty elektroniczne opatrzone kwalifikowanym podpisem elektronicznym albo ich poświadczone elektronicznie odpisy. Paragraf 1² nakłada na profesjonalnych pełnomocników (adwokata, radcę prawnego, rzecznika patentowego), Prokuratorię Generalną Rzeczypospolitej Polskiej oraz prokuratora obowiązek wnoszenia wniosku i dalszych pism w tym postępowaniu za pośrednictwem portalu informacyjnego. Paragraf 2 reguluje sytuację ugody zawartej w ramach mediacji sądowej (skierowanej przez sąd) – mediator składa protokół oraz ugodę, o ile została zawarta, bezpośrednio w sądzie rozpoznającym sprawę, przy czym strony mogą objąć ugodą także roszczenia nieobjęte pozwem, co pozwala kompleksowo rozwiązać spór wykraczający poza pierwotny przedmiot procesu.
 
@@ -506,17 +504,17 @@ Przepis, którego poszczególne jednostki redakcyjne pochodzą w części z nowe
 
 **Brzmienie przepisu:**
 
-> Art. 183¹⁴. § 1. Jeżeli zawarto ugodę przed mediatorem, sąd niezwłocznie przeprowadza postępowanie co do zatwierdzenia ugody.
+> Art. 183¹⁴. § 1.⁽⁴⁸⁾ Jeżeli zawarto ugodę przed mediatorem, sąd niezwłocznie przeprowadza postępowanie co do zatwierdzenia ugody.
 >
 > § 2. Jeżeli ugoda podlega wykonaniu w drodze egzekucji, sąd zatwierdza ją przez nadanie jej klauzuli wykonalności; w przeciwnym przypadku sąd zatwierdza ugodę postanowieniem.
 >
-> § 2¹. Jeżeli ugoda dotyczy roszczeń objętych różnymi postępowaniami sądowymi, strony wymieniają w ugodzie te postępowania oraz wskazują sąd, który podejmie czynności przewidziane w § 1 i 2. Jeżeli postępowania prowadzą sądy różnego rzędu, właściwy jest sąd wyższego rzędu. Odpis postanowienia o zatwierdzeniu ugody lub nadaniu ugodzie klauzuli wykonalności sąd doręcza pozostałym sądom wymienionym w ugodzie.
+> § 2¹.⁽⁴⁹⁾ Jeżeli ugoda dotyczy roszczeń objętych różnymi postępowaniami sądowymi, strony wymieniają w ugodzie te postępowania oraz wskazują sąd, który podejmie czynności przewidziane w § 1 i 2. Jeżeli postępowania prowadzą sądy różnego rzędu, właściwy jest sąd wyższego rzędu. Odpis postanowienia o zatwierdzeniu ugody lub nadaniu ugodzie klauzuli wykonalności sąd doręcza pozostałym sądom wymienionym w ugodzie.
 >
 > § 3. Sąd odmawia nadania klauzuli wykonalności albo zatwierdzenia ugody zawartej przed mediatorem, w całości lub części, jeżeli ugoda jest sprzeczna z prawem lub zasadami współżycia społecznego albo zmierza do obejścia prawa, a także gdy jest niezrozumiała lub zawiera sprzeczności.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 20 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 48) W brzmieniu ustalonym przez art. 1 pkt 20 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 20 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 49) W brzmieniu ustalonym przez art. 1 pkt 20 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis, w części zmieniony nowelizacją wskazaną w przypisach urzędowych, reguluje samo postępowanie o zatwierdzenie ugody zawartej przed mediatorem. Paragraf 1 nakłada na sąd obowiązek niezwłocznego przeprowadzenia postępowania co do zatwierdzenia ugody po jej zawarciu. Paragraf 2 różnicuje formę zatwierdzenia w zależności od tego, czy ugoda podlega wykonaniu w drodze egzekucji – jeżeli tak, sąd zatwierdza ją przez nadanie klauzuli wykonalności, w pozostałych przypadkach zatwierdza ją postanowieniem. Paragraf 2¹ reguluje sytuację ugody obejmującej roszczenia objęte różnymi postępowaniami sądowymi – strony wymieniają w ugodzie te postępowania i wskazują sąd właściwy do dokonania czynności zatwierdzających, a jeżeli postępowania prowadzą sądy różnego rzędu, właściwy jest sąd wyższego rzędu; odpis postanowienia o zatwierdzeniu lub nadaniu klauzuli doręcza się pozostałym wymienionym sądom, co koordynuje skutki jednej ugody dla wielu równolegle toczących się spraw. Paragraf 3 określa przesłanki odmowy nadania klauzuli wykonalności lub zatwierdzenia ugody, w całości lub części – sprzeczność ugody z prawem lub zasadami współżycia społecznego, zmierzanie do obejścia prawa, a także jej niezrozumiałość lub wewnętrzna sprzeczność; sąd sprawuje w tym zakresie kontrolę merytoryczną treści ugody, analogiczną do kontroli ugody sądowej.
 
@@ -550,9 +548,9 @@ Przepis otwiera oddział poświęcony postępowaniu pojednawczemu i formułuje j
 >
 > § 2. Postępowanie pojednawcze przeprowadza sąd w składzie jednego sędziego.
 >
-> § 3. Z posiedzenia sporządza się protokół. Jeżeli doszło do ugody, jej osnowę wciąga się do protokołu albo zamieszcza się w odrębnym dokumencie stanowiącym załącznik do protokołu i stwierdza podpisami stron. Przepis art. 223 § 1 zdanie trzecie stosuje się odpowiednio.
+> § 3. Z posiedzenia sporządza się protokół. Jeżeli doszło do ugody, jej osnowę wciąga się do protokołu albo zamieszcza się w odrębnym dokumencie stanowiącym załącznik do protokołu i stwierdza podpisami stron. Przepis art. 223 § 1 zdanie trzecie stosuje się odpowiednio.⁽⁵⁰⁾
 
-*Odnośnik w tekście jednolitym:* Zdanie trzecie w brzmieniu ustalonym przez art. 1 pkt 21 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 50) Zdanie trzecie w brzmieniu ustalonym przez art. 1 pkt 21 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
 
 Przepis reguluje przebieg postępowania pojednawczego wszczynanego zawezwaniem do próby ugodowej. Paragraf 1 określa właściwość sądu – niezależnie od właściwości rzeczowej, wniosek kieruje się do sądu rejonowego ogólnie właściwego dla przeciwnika, a w braku podstaw do jej ustalenia – do sądu rejonowego właściwego dla miejsca zamieszkania lub siedziby wzywającego; ta niezależność od wartości przedmiotu sporu odróżnia postępowanie pojednawcze od zwykłego trybu procesowego. Paragraf 1¹ wymaga zwięzłego oznaczenia sprawy i przedstawienia propozycji ugodowych w wezwaniu, a do wezwania niespełniającego tych wymogów stosuje się odpowiednio art. 130, dotyczący zwrotu pisma dotkniętego brakami formalnymi. Paragraf 2 przewiduje, że postępowanie pojednawcze prowadzi sąd w składzie jednego sędziego. Paragraf 3, którego zdanie trzecie zmieniono nowelizacją wskazaną w przypisie urzędowym, nakazuje sporządzenie protokołu z posiedzenia, a w razie zawarcia ugody – wciągnięcie jej osnowy do protokołu albo zamieszczenie w odrębnym dokumencie stanowiącym załącznik, stwierdzony podpisami stron; odpowiednie stosowanie art. 223 § 1 zdanie trzecie odnosi się do sposobu dokumentowania czynności na posiedzeniu.
 

@@ -346,9 +346,9 @@ Przepis reguluje tryb kwestionowania prawomocnego postanowienia o stwierdzeniu n
 
 **Brzmienie przepisu:**
 
-> Art. 679¹. Prawomocne postanowienie o stwierdzeniu nabycia spadku, prawomocne postanowienie uchylające lub zmieniające postanowienie o stwierdzeniu nabycia spadku sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001, z późn. zm.), do Rejestru Spadkowego.
+> Art. 679¹. Prawomocne postanowienie o stwierdzeniu nabycia spadku, prawomocne postanowienie uchylające lub zmieniające postanowienie o stwierdzeniu nabycia spadku sąd niezwłocznie wpisuje, za pośrednictwem systemu teleinformatycznego, o którym mowa w art. 95i § 1 ustawy z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz. 1001, z późn. zm.⁽⁷⁶⁾), do Rejestru Spadkowego.
 
-*Odnośnik w tekście jednolitym:* Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 479, 1669 i 1793 oraz z 2026 r. poz. 26, 176 i 370.
+*Odnośnik w tekście jednolitym* 76) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 479, 1669 i 1793 oraz z 2026 r. poz. 26, 176 i 370.
 
 Przepis nakłada na sąd obowiązek niezwłocznego wpisania prawomocnego postanowienia o stwierdzeniu nabycia spadku oraz prawomocnego postanowienia uchylającego lub zmieniającego takie postanowienie do Rejestru Spadkowego, za pośrednictwem właściwego systemu teleinformatycznego, o którym mowa w przepisach ustawy – Prawo o notariacie. Rejestr Spadkowy pełni funkcję centralnej, elektronicznej ewidencji tytułów do dziedziczenia, umożliwiającej weryfikację, czy w odniesieniu do danego spadku nie zapadło już inne rozstrzygnięcie – co ma szczególne znaczenie wobec możliwości równoległego prowadzenia postępowań sądowych i notarialnego poświadczania dziedziczenia. Załączony przypis urzędowy informuje jedynie o publikacyjnych zmianach tekstu jednolitego ustawy – Prawo o notariacie, do której odsyła przepis, i nie modyfikuje treści normatywnej samego artykułu.
 
@@ -870,7 +870,7 @@ Przepis reguluje szczególny reżim dokumentowania czynności sądu w postępowa
 >
 > § 3¹. (uchylony)
 >
-> § 3². Do wniosku złożonego przez pełnomocnika za pośrednictwem systemu teleinformatycznego pełnomocnik dołącza pełnomocnictwo lub jego odpis.
+> § 3².⁽⁷⁷⁾ Do wniosku złożonego przez pełnomocnika za pośrednictwem systemu teleinformatycznego pełnomocnik dołącza pełnomocnictwo lub jego odpis.
 >
 > § 4. W postępowaniu przed sądem drugiej instancji przepisu art. 131¹ § 1 nie stosuje się.
 >
@@ -878,7 +878,7 @@ Przepis reguluje szczególny reżim dokumentowania czynności sądu w postępowa
 >
 > § 6. Jeżeli postępowanie przed sądem rejestrowym odbywa się za pośrednictwem systemu teleinformatycznego, przepisu art. 131¹ § 2¹ nie stosuje się.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie uchylone przez art. 1 pkt 28 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 77) Zdanie drugie uchylone przez art. 1 pkt 28 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje krąg podmiotów uprawnionych i zobowiązanych do złożenia wniosku w postępowaniu rejestrowym oraz status procesowy podmiotu podlegającego wpisowi. Paragraf 1 nakłada obowiązek złożenia wniosku do sądu rejestrowego prowadzącego KRS na podmiot podlegający wpisowi do tego rejestru, jeżeli przepisy szczególne nie stanowią inaczej. Paragraf 2 stanowi, że podmiot podlegający wpisowi jest uczestnikiem postępowania, choćby nie był wnioskodawcą, przy wyłączeniu stosowania art. 510 § 2 – co oznacza automatyczny, ustawowy udział podmiotu rejestrowego w postępowaniu bez potrzeby jego formalnego wezwania na zasadach ogólnych. Paragraf 2¹ precyzuje, że brak organu lub brak w składzie organu powołanego do reprezentacji podmiotu podlegającego wpisowi nie stanowi przeszkody do dokonania wpisu z urzędu – rozwiązanie to ma zapobiec paraliżowi postępowania rejestrowego w sytuacjach kryzysu organizacyjnego podmiotu, np. wygaśnięcia mandatów członków zarządu. Paragrafy 3 i 3¹ zostały uchylone. Paragraf 3² nakłada na pełnomocnika, który złożył wniosek za pośrednictwem systemu teleinformatycznego, obowiązek dołączenia pełnomocnictwa lub jego odpisu. Paragraf 4 wyłącza w postępowaniu przed sądem drugiej instancji zastosowanie art. 131¹ § 1, dotyczącego elektronicznego doręczania pism. Paragraf 5 został uchylony. Paragraf 6 wyłącza zastosowanie art. 131¹ § 2¹, gdy postępowanie przed sądem rejestrowym odbywa się za pośrednictwem systemu teleinformatycznego – dołączony przypis urzędowy wskazuje, że zdanie drugie tego paragrafu zostało uchylone nowelizacją powołaną w odnośniku 11 źródła.
 
@@ -918,7 +918,7 @@ Przepis nakłada obowiązek dołączania do pisma wnoszonego za pośrednictwem s
 >
 > § 2². Jeżeli dokumenty, o których mowa w § 1, zostały sporządzone w postaci papierowej, do wniosku dołącza się:
 >
-> 1) odpisy elektronicznie poświadczone przez notariusza albo występującego w sprawie pełnomocnika będącego adwokatem lub radcą prawnym, albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, albo 2) elektroniczne kopie dokumentów.
+> 1)⁽⁷⁸⁾ odpisy elektronicznie poświadczone przez notariusza albo występującego w sprawie pełnomocnika będącego adwokatem lub radcą prawnym, albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, albo 2) elektroniczne kopie dokumentów.
 >
 > § 2³. W przypadku, o którym mowa w § 2² pkt 2, oryginał dokumentu albo jego odpis lub wyciąg poświadczony urzędowo przesyła się do sądu rejestrowego w terminie 3 dni od daty złożenia pisma. Przepisy art. 130 § 1–4 stosuje się odpowiednio.
 >
@@ -926,7 +926,7 @@ Przepis nakłada obowiązek dołączania do pisma wnoszonego za pośrednictwem s
 >
 > § 3. (uchylony)
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 29 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 78) W brzmieniu ustalonym przez art. 1 pkt 29 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje formę dokumentów składanych w postępowaniu rejestrowym. Paragraf 1 wymaga, aby dokumenty stanowiące podstawę wpisu do KRS albo podlegające złożeniu do akt rejestrowych były składane w oryginałach albo poświadczonych urzędowo odpisach lub wyciągach, co ma zapewnić wiarygodność podstawy dokonywanych wpisów. Paragraf 1¹ wprowadza szczególny mechanizm weryfikacji w sytuacji, gdy konieczne jest badanie tytułu wykonawczego, o którym mowa w art. 783 § 4 – do wniosku należy wówczas dołączyć dokument uzyskany z systemu teleinformatycznego, umożliwiający sądowi weryfikację istnienia i treści tytułu wykonawczego, przy czym przed rozpoznaniem wniosku sędzia lub referendarz sądowy weryfikuje tytuł wykonawczy w tym systemie – rozwiązanie to podnosi bezpieczeństwo obrotu poprzez elektroniczną kontrolę autentyczności tytułów wykonawczych. Paragraf 2 wymaga, aby dokumenty stanowiące załączniki do wniosku złożonego elektronicznie, sporządzone w postaci elektronicznej, były opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Paragraf 2¹ został uchylony. Paragraf 2² reguluje sytuację dokumentów sporządzonych pierwotnie w postaci papierowej – do wniosku dołącza się wówczas albo ich odpisy poświadczone elektronicznie przez notariusza, pełnomocnika będącego adwokatem lub radcą prawnym, albo radcę bądź referendarza Prokuratorii Generalnej RP, albo elektroniczne kopie dokumentów. Paragraf 2³ nakazuje, w przypadku złożenia jedynie elektronicznej kopii, przesłanie oryginału albo urzędowo poświadczonego odpisu lub wyciągu do sądu rejestrowego w terminie trzech dni od złożenia pisma, z odpowiednim zastosowaniem art. 130 § 1–4 dotyczącego skutków niezachowania wymogów formalnych. Paragraf 2⁴ umożliwia podmiotom dokonującym zgłoszenia okoliczności wskazanych w art. 41 pkt 1 i 2 ustawy o Krajowym Rejestrze Sądowym samodzielne dokonanie elektronicznego poświadczenia dokumentów. Paragraf 3 został uchylony. Dołączony przypis urzędowy wskazuje, że przepis w obecnym brzmieniu został ustalony nowelizacją powołaną w odnośniku 11 źródła, co świadczy o jego niedawnym, kompleksowym przeredagowaniu w związku z elektronizacją postępowania rejestrowego.
 
@@ -934,11 +934,11 @@ Przepis reguluje formę dokumentów składanych w postępowaniu rejestrowym. Par
 
 **Brzmienie przepisu:**
 
-> Art. 694⁴ᵃ. § 1. Elektroniczne poświadczenie odpisu dokumentu przez występującego w sprawie pełnomocnika będącego adwokatem lub radcą prawnym albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, lub elektroniczne uwierzytelnienie odpisu udzielonego mu pełnomocnictwa następuje z chwilą wprowadzenia przez tego pełnomocnika odpisu dokumentu lub odpisu pełnomocnictwa do systemu teleinformatycznego.
+> Art. 694⁴ᵃ. § 1.⁽⁷⁹⁾ Elektroniczne poświadczenie odpisu dokumentu przez występującego w sprawie pełnomocnika będącego adwokatem lub radcą prawnym albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, lub elektroniczne uwierzytelnienie odpisu udzielonego mu pełnomocnictwa następuje z chwilą wprowadzenia przez tego pełnomocnika odpisu dokumentu lub odpisu pełnomocnictwa do systemu teleinformatycznego.
 >
 > § 2. Przepis § 1 stosuje się odpowiednio do elektronicznego poświadczenia odpisu dokumentu lub elektronicznego uwierzytelnienia odpisu udzielonego pełnomocnictwa przez podmiot dokonujący zgłoszenia okoliczności, o których mowa w art. 41 pkt 1 i 2 ustawy z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 30 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 79) W brzmieniu ustalonym przez art. 1 pkt 30 ustawy, o której mowa w odnośniku 11.
 
 Przepis precyzuje moment, w którym następuje elektroniczne poświadczenie odpisu dokumentu lub uwierzytelnienie odpisu pełnomocnictwa przez profesjonalnego pełnomocnika. Paragraf 1 stanowi, że elektroniczne poświadczenie odpisu dokumentu przez pełnomocnika będącego adwokatem lub radcą prawnym albo radcę lub referendarza Prokuratorii Generalnej RP, względnie elektroniczne uwierzytelnienie odpisu udzielonego mu pełnomocnictwa, następuje z chwilą wprowadzenia przez tego pełnomocnika odpisu dokumentu lub odpisu pełnomocnictwa do systemu teleinformatycznego – rozwiązanie to nadaje samej czynności technicznej wprowadzenia dokumentu do systemu walor czynności poświadczającej, bez potrzeby odrębnego oświadczenia. Paragraf 2 rozciąga odpowiednie stosowanie tej reguły na podmiot dokonujący zgłoszenia okoliczności wskazanych w art. 41 pkt 1 i 2 ustawy o Krajowym Rejestrze Sądowym, w kontekście uprawnienia przyznanego mu w art. 694⁴ § 2⁴. Dołączony przypis urzędowy wskazuje, że przepis w obecnym brzmieniu został ustalony tą samą nowelizacją powołaną w odnośniku 11 źródła, co art. 694⁴.
 

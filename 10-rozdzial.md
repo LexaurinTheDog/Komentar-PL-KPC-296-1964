@@ -6,7 +6,7 @@
 
 **Brzmienie przepisu:**
 
-> Art. 479⁴⁵. § 1. Odpis prawomocnego wyroku uwzględniającego powództwo sąd przesyła Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
+> Art. 479⁴⁵.⁽⁶⁹⁾ § 1. Odpis prawomocnego wyroku uwzględniającego powództwo sąd przesyła Prezesowi Urzędu Ochrony Konkurencji i Konsumentów.
 >
 > § 2. Prezes Urzędu Ochrony Konkurencji i Konsumentów prowadzi, na podstawie wyroków, o których mowa w § 1, rejestr postanowień wzorców umowy uznanych za niedozwolone.
 >
@@ -14,7 +14,7 @@
 >
 > § 4. Rada Ministrów określi, w drodze rozporządzenia, wzór rejestru postanowień wzorców umowy uznanych za niedozwolone.
 
-*Odnośnik w tekście jednolitym:* Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 70.
+*Odnośnik w tekście jednolitym* 69) Obowiązuje do wejścia w życie zmiany, o której mowa w odnośniku 70.
 
 Przepis zamyka dawne postępowanie w sprawach o uznanie postanowień wzorca umowy za niedozwolone, którego rdzeń normatywny – art. 479³⁶–479⁴⁴ – został uchylony, jak wskazuje nagłówek działu IVB; art. 479⁴⁵ pozostaje jedynym reliktem tego postępowania, regulującym losy prawomocnego wyroku uwzględniającego powództwo o abstrakcyjną kontrolę wzorca. Paragraf 1 nakłada na sąd obowiązek przesłania odpisu takiego wyroku Prezesowi Urzędu Ochrony Konkurencji i Konsumentów; adresatem normy jest sąd, a czynność ma charakter czysto techniczny, lecz warunkuje realizację dalszych paragrafów. Paragraf 2 ustanawia po stronie Prezesa UOKiK kompetencję i obowiązek prowadzenia, na podstawie nadsyłanych wyroków, rejestru postanowień wzorców umowy uznanych za niedozwolone – rejestr ten pełni funkcję informacyjną i prewencyjną, umożliwiając przedsiębiorcom i konsumentom weryfikację, czy dana klauzula była już przedmiotem kontroli sądowej. Paragraf 3 przesądza o jawności rejestru, co służy transparentności obrotu i ułatwia powoływanie się na wpis w innych postępowaniach. Paragraf 4 zawiera upoważnienie ustawowe dla Rady Ministrów do określenia w drodze rozporządzenia wzoru rejestru, co jest typowym elementem technicznym systemu rejestrów publicznych. Znaczenie praktyczne przepisu jest dziś ograniczone, ponieważ – jak wynika z przypisu urzędowego – obowiązuje on jedynie do wejścia w życie zmiany znoszącej sądowy model abstrakcyjnej kontroli wzorców na rzecz modelu administracyjnego prowadzonego przez Prezesa UOKiK.
 
@@ -22,9 +22,9 @@ Przepis zamyka dawne postępowanie w sprawach o uznanie postanowień wzorca umow
 
 **Brzmienie przepisu:**
 
-> Art. 479⁴⁵. (uchylony)
+> Art. 479⁴⁵. (uchylony)⁽⁷⁰⁾
 
-*Odnośnik w tekście jednolitym:* Przez art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 1634); wejdzie w życie z dniem 18 kwietnia 2026 r.
+*Odnośnik w tekście jednolitym* 70) Przez art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 1634); wejdzie w życie z dniem 18 kwietnia 2026 r.
 
 Jednostka redakcyjna w tekście jednolitym zawiera drugą, przyszłą wersję art. 479⁴⁵, która uchyla przepis w całości. Zgodnie z przypisem urzędowym zmiana ta wynika z art. 2 pkt 2 ustawy z dnia 5 sierpnia 2015 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw i wejdzie w życie z dniem 18 kwietnia 2026 r. Do tego dnia obowiązuje wersja pierwsza omówiona powyżej, nakładająca na sąd obowiązek przesyłania odpisów wyroków oraz przewidująca prowadzenie przez Prezesa UOKiK jawnego rejestru klauzul niedozwolonych; po wejściu w życie nowelizacji przepis przestaje istnieć, gdyż mechanizm rejestrowania i eliminowania niedozwolonych postanowień wzorców umowy zostaje przeniesiony do trybu administracyjnego prowadzonego bezpośrednio przez Prezesa UOKiK, poza postępowaniem cywilnym unormowanym w kodeksie.
 

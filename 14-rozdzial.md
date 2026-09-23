@@ -286,9 +286,9 @@ Przepis otwiera rozdział 5, regulujący ustanowienie drogi koniecznej oraz słu
 >
 > § 3. Nie stanowi przeszkody do wpisu okoliczność, że po złożeniu wniosku wnioskodawca bądź inny uczestnik postępowania zmarł lub został pozbawiony albo ograniczony w możliwości rozporządzania prawem albo w zdolności do czynności prawnych.
 >
-> § 4. (utracił moc) § 5. (uchylony)
+> § 4. (utracił moc)⁽⁷⁵⁾ § 5. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Z dniem 17 września 2004 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 7 września 2004 r. sygn. akt P 4/04 (Dz. U. poz. 2091).
+*Odnośnik w tekście jednolitym* 75) Z dniem 17 września 2004 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 7 września 2004 r. sygn. akt P 4/04 (Dz. U. poz. 2091).
 
 Przepis otwiera rozdział 6, regulujący postępowanie wieczystoksięgowe – szczególny, sformalizowany tryb postępowania nieprocesowego dotyczący wpisów w księgach wieczystych. Paragraf 1 ustanawia zasadę rozpoznawania spraw wieczystoksięgowych na posiedzeniu niejawnym, co odzwierciedla przede wszystkim formalny, dokumentowy charakter kontroli sprawowanej przez sąd wieczystoksięgowy (por. art. 626⁸ § 2). Paragraf 2 zawęża krąg uczestników postępowania w stosunku do reguły ogólnej – oprócz wnioskodawcy uczestnikami są tylko osoby, których prawa mają zostać wykreślone lub obciążone, bądź na rzecz których wpis ma nastąpić, co racjonalizuje postępowanie masowo prowadzone przez sądy wieczystoksięgowe. Paragraf 3 wprowadza zasadę, że śmierć wnioskodawcy lub innego uczestnika po złożeniu wniosku, jak również pozbawienie lub ograniczenie go w możliwości rozporządzania prawem albo w zdolności do czynności prawnych, nie stanowi przeszkody do dokonania wpisu – rozwiązanie to zapewnia stabilność i sprawność postępowania wieczystoksięgowego, w którym istotny jest stan prawny z chwili złożenia wniosku. Paragraf 4 utracił moc, a paragraf 5 został uchylony, o czym informuje przypis urzędowy wskazujący, że nastąpiło to na podstawie wyroku Trybunału Konstytucyjnego z dnia 7 września 2004 r. (sygn. akt P 4/04), który z dniem 17 września 2004 r. wyeliminował z porządku prawnego uregulowanie dotyczące tych paragrafów jako niezgodne z Konstytucją.
 

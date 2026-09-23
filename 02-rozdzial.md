@@ -90,15 +90,15 @@ Przepis systematyzuje rodzaje pełnomocnictwa procesowego według zakresu umocow
 
 > Art. 89. § 1. Pełnomocnik jest obowiązany przy pierwszej czynności procesowej dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa wraz z odpisem dla strony przeciwnej. Adwokat, radca prawny, rzecznik patentowy, a także radca Prokuratorii Generalnej Rzeczypospolitej Polskiej mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Złożenie dokumentu wykazującego umocowanie lub jego uwierzytelnionego odpisu nie jest wymagane, jeżeli stwierdzenie przez sąd umocowania jest możliwe na podstawie wykazu lub innego rejestru, do którego sąd ma dostęp drogą elektroniczną.
 >
-> § 1¹. (uchylony) § 1². Pełnomocnictwo udzielone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+> § 1¹. (uchylony)⁽¹¹⁾ § 1².⁽¹²⁾ Pełnomocnictwo udzielone w postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 >
 > § 2. W toku sprawy pełnomocnictwo może być udzielone ustnie na posiedzeniu sądu przez oświadczenie złożone przez stronę i wciągnięte do protokołu.
 >
 > § 3. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Przez art. 1 pkt 1 lit. a ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), która weszła w życie z dniem 1 marca 2026 r.
+*Odnośnik w tekście jednolitym* 11) Przez art. 1 pkt 1 lit. a ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw (Dz. U. poz. 1172), która weszła w życie z dniem 1 marca 2026 r.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 12) Dodany przez art. 1 pkt 1 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje sposób wykazania umocowania pełnomocnika przed sądem. Paragraf 1 nakłada na pełnomocnika obowiązek dołączenia do akt sprawy, przy pierwszej czynności procesowej, dokumentu pełnomocnictwa z podpisem mocodawcy lub jego wierzytelnego odpisu, wraz z odpisem dla strony przeciwnej (co pozwala jej zweryfikować umocowanie pełnomocnika strony przeciwnej). Adwokat, radca prawny, rzecznik patentowy oraz radca Prokuratorii Generalnej korzystają z ułatwienia w postaci prawa do samodzielnego uwierzytelnienia odpisu udzielonego im pełnomocnictwa oraz innych dokumentów wykazujących umocowanie, bez udziału notariusza. Zdanie trzecie wprowadza istotne uproszczenie proceduralne: złożenie dokumentu pełnomocnictwa nie jest wymagane, jeżeli sąd może zweryfikować umocowanie na podstawie wykazu lub innego rejestru dostępnego mu drogą elektroniczną, co odzwierciedla postępującą cyfryzację postępowania cywilnego i możliwość elektronicznej weryfikacji wpisu na listę adwokatów lub radców prawnych. Paragraf 1¹ został uchylony, natomiast paragraf 1² – dodany nowelizacją, która weszła w życie 1 marca 2026 r. – określa wymogi co do formy elektronicznej pełnomocnictwa: musi ono być opatrzone kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym (a więc podpisem powiązanym z warstwą elektroniczną dowodu osobistego). Paragraf 2 dopuszcza udzielenie pełnomocnictwa w formie ustnej na posiedzeniu sądu, poprzez oświadczenie strony wciągnięte do protokołu, co eliminuje konieczność sporządzania odrębnego dokumentu w toku rozprawy. Paragraf 3 został uchylony.
 
@@ -254,17 +254,17 @@ Przepis stanowi jeden z najważniejszych wyjątków od zasady odpowiedzialności
 
 > Art. 103. § 1. Niezależnie od wyniku sprawy sąd może włożyć na stronę lub interwenienta obowiązek zwrotu kosztów, wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem.
 >
-> § 2. Przepis § 1 dotyczy zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów.
+> § 2.⁽¹³⁾ Przepis § 1 dotyczy zwłaszcza kosztów powstałych wskutek uchylenia się od wyjaśnień lub złożenia wyjaśnień niezgodnych z prawdą, zatajenia lub opóźnionego powołania dowodów.
 >
 > § 3. Jeżeli strona:
 >
-> 1) pomimo wezwania do osobistego stawiennictwa nie stawiła się w celu udziału w czynności sądu i nie usprawiedliwiła swego niestawiennictwa, 1¹) bez uzasadnionej przyczyny odmówiła poddania się mediacji, 2) w toku postępowania bez usprawiedliwienia nie stawiła się na posiedzenie mediacyjne pomimo wcześniejszego wyrażenia zgody na mediację – sąd może, niezależnie od wyniku sprawy, włożyć na tę stronę obowiązek zwrotu kosztów w części wyższej, niż nakazywałby to wynik sprawy, a nawet zwrotu kosztów w całości.
+> 1) pomimo wezwania do osobistego stawiennictwa nie stawiła się w celu udziału w czynności sądu i nie usprawiedliwiła swego niestawiennictwa, 1¹)⁽¹⁴⁾ bez uzasadnionej przyczyny odmówiła poddania się mediacji, 2) w toku postępowania bez usprawiedliwienia nie stawiła się na posiedzenie mediacyjne pomimo wcześniejszego wyrażenia zgody na mediację – sąd może, niezależnie od wyniku sprawy, włożyć na tę stronę obowiązek zwrotu kosztów w części wyższej, niż nakazywałby to wynik sprawy, a nawet zwrotu kosztów w całości.
 >
 > § 4. O możliwości tej sąd poucza strony przy wezwaniu do osobistego stawiennictwa lub przy skierowaniu stron do mediacji.
 
-*Odnośnik w tekście jednolitym:* Ze zmianą wprowadzoną przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 13) Ze zmianą wprowadzoną przez art. 1 pkt 2 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 14) Dodany przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis wprowadza – niezależną od wyniku sprawy – odpowiedzialność za koszty procesu opartą na zasadzie zawinienia procesowego. Paragraf 1 pozwala sądowi obciążyć stronę lub interwenienta obowiązkiem zwrotu kosztów wywołanych ich niesumiennym lub oczywiście niewłaściwym postępowaniem, niezależnie od tego, która strona ostatecznie wygrała sprawę. Paragraf 2 doprecyzowuje, że przepis ten znajduje zastosowanie zwłaszcza do kosztów powstałych wskutek uchylania się od składania wyjaśnień, składania wyjaśnień niezgodnych z prawdą, a także zatajania lub opóźnionego powoływania dowodów – a więc zachowań utrudniających sprawne i rzetelne prowadzenie postępowania dowodowego. Paragraf 3 rozszerza tę sankcję na sytuacje związane z niestawiennictwem strony wezwanej do osobistego udziału w czynności sądu bez usprawiedliwienia, z bezzasadną odmową poddania się mediacji oraz z nieusprawiedliwionym niestawiennictwem na posiedzenie mediacyjne mimo wcześniej wyrażonej zgody na mediację – w takich przypadkach sąd może obciążyć stronę kosztami w części wyższej, niż wynikałoby to z wyniku sprawy, a nawet w całości, co ma stanowić instrument dyscyplinujący strony do konstruktywnego udziału w próbach polubownego zakończenia sporu. Paragraf 4 nakłada na sąd obowiązek pouczenia stron o możliwości zastosowania tej sankcji przy wezwaniu do osobistego stawiennictwa lub przy skierowaniu do mediacji, co stanowi warunek rzetelnego wykorzystania tego uprawnienia i zabezpieczenie przed zaskoczeniem strony niekorzystnym rozstrzygnięciem o kosztach.
 
@@ -460,13 +460,13 @@ Przepis wprowadza mechanizm zapobiegający ponawianiu wniosków o ustanowienie a
 
 > Art. 117³. § 1. O wyznaczenie adwokata lub radcy prawnego sąd zwraca się do właściwej okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych.
 >
-> § 2. Właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, wyznacza adwokata lub radcę prawnego niezwłocznie, niepóźniej jednak niż w terminie dwóch tygodni, zawiadamiając o tym sąd. W zawiadomieniu właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych wskazuje imię, nazwisko oraz numer wpisu na właściwą listę wyznaczonego adwokata lub radcy prawnego, jego adres do doręczeń oraz sprawę, w której został wyznaczony. § 3. Jeżeli strona we wniosku wskazała adwokata lub radcę prawnego, właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, w miarę możliwości i w porozumieniu ze wskazanym adwokatem lub radcą prawnym, wyznaczy adwokata lub radcę prawnego wskazanego przez stronę.
+> § 2. Właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, wyznacza adwokata lub radcę prawnego niezwłocznie, niepóźniej jednak niż w terminie dwóch tygodni, zawiadamiając o tym sąd. W zawiadomieniu właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych wskazuje imię, nazwisko oraz numer wpisu na właściwą listę wyznaczonego adwokata lub radcy prawnego, jego adres do doręczeń oraz sprawę, w której został wyznaczony.⁽¹⁵⁾ § 3. Jeżeli strona we wniosku wskazała adwokata lub radcę prawnego, właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, w miarę możliwości i w porozumieniu ze wskazanym adwokatem lub radcą prawnym, wyznaczy adwokata lub radcę prawnego wskazanego przez stronę.
 >
-> § 4. W sprawach, w których jest to możliwe, korespondencja między sądem a właściwą okręgową radą adwokacką lub radą okręgowej izby radców prawnych odbywa się za pośrednictwem portalu informacyjnego. Przepisy art. 131¹ᵃ § 1 i 2 stosuje się odpowiednio.
+> § 4.⁽¹⁶⁾ W sprawach, w których jest to możliwe, korespondencja między sądem a właściwą okręgową radą adwokacką lub radą okręgowej izby radców prawnych odbywa się za pośrednictwem portalu informacyjnego. Przepisy art. 131¹ᵃ § 1 i 2 stosuje się odpowiednio.
 
-*Odnośnik w tekście jednolitym:* Zdanie drugie w brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 15) Zdanie drugie w brzmieniu ustalonym przez art. 1 pkt 3 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 16) Dodany przez art. 1 pkt 3 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje procedurę wyznaczenia konkretnego adwokata lub radcy prawnego po uwzględnieniu przez sąd wniosku o ustanowienie pełnomocnika z urzędu. Paragraf 1 nakłada na sąd obowiązek zwrócenia się w tym celu do właściwej okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych, a więc organów samorządu zawodowego, którym ustawa powierza konkretny dobór osoby pełnomocnika. Paragraf 2 określa termin realizacji tego obowiązku przez samorząd – niezwłocznie, nie później jednak niż w terminie dwóch tygodni, a treść zawiadomienia kierowanego do sądu musi obejmować imię, nazwisko, numer wpisu na właściwą listę wyznaczonego pełnomocnika, jego adres do doręczeń oraz oznaczenie sprawy, w której został wyznaczony. Paragraf 3 uwzględnia sytuację, gdy strona we wniosku wskazała konkretnego adwokata lub radcę prawnego – właściwy samorząd, w miarę możliwości i w porozumieniu ze wskazaną osobą, wyznacza właśnie tego pełnomocnika, co pozwala uwzględnić dotychczasową relację strony z danym prawnikiem. Paragraf 4 przewiduje elektronizację korespondencji między sądem a organami samorządu zawodowego za pośrednictwem portalu informacyjnego, w zakresie, w jakim jest to możliwe, z odpowiednim stosowaniem przepisów o doręczeniach elektronicznych z art. 131¹ᵃ § 1 i 2.
 
@@ -592,9 +592,9 @@ Przepis reguluje wpływ zgłoszenia wniosku o ustanowienie pełnomocnika z urzę
 >
 > § 4. (uchylony)
 >
-> § 5. (uchylony)
+> § 5. (uchylony)⁽¹⁷⁾
 
-*Odnośnik w tekście jednolitym:* Przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 17) Przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 11.
 
 Przepis otwiera rozdział poświęcony pismom procesowym, definiując tę kategorię czynności procesowych oraz określając podstawowe zasady ich wnoszenia, w tym w formie elektronicznej. Paragraf 1 definiuje pisma procesowe jako wnioski i oświadczenia stron składane poza rozprawą – w odróżnieniu od oświadczeń i wniosków zgłaszanych ustnie w toku posiedzenia i protokołowanych. Paragraf 2 przewiduje możliwość wprowadzenia przez przepis szczególny obowiązku wnoszenia pism na urzędowych formularzach (np. w postępowaniu uproszczonym czy elektronicznym postępowaniu upominawczym). Paragrafy 2¹–2⁴ regulują szczegółowo elektroniczny obieg pism procesowych: obowiązek wnoszenia pism wyłącznie za pośrednictwem systemu teleinformatycznego powstaje, gdy przewiduje to przepis szczególny albo gdy strona dokonała wyboru takiego sposobu wnoszenia pism, przy czym pisma wniesione z pominięciem systemu nie wywołują skutków prawnych wiązanych przez ustawę z wniesieniem pisma do sądu, o czym sąd poucza stronę (§ 2¹); możliwość dokonania i utrzymania takiego wyboru jest jednak uwarunkowana istnieniem możliwości technicznych po stronie sądu (§ 2¹ᵃ); w razie niewniesienia pisma za pośrednictwem systemu przewodniczący zawiadamia stronę o bezskuteczności czynności (§ 2²); jeżeli wniesienie pisma za pośrednictwem systemu jest niemożliwe z przyczyn technicznych leżących po stronie sądu, zastosowanie znajdują przepisy o przywróceniu terminu (art. 168–172), co chroni stronę przed skutkami awarii systemu, za które nie ponosi ona odpowiedzialności (§ 2³); wybór lub rezygnacja z wyboru elektronicznego sposobu wnoszenia pism następuje w formie oświadczenia złożonego za pośrednictwem tego systemu i wiąże wyłącznie osobę, która je złożyła (§ 2⁴). Paragraf 3 zawiera delegację dla Ministra Sprawiedliwości do określenia wzorów i sposobu udostępniania urzędowych formularzy, w tym wymogu ich bezpłatnego udostępniania w internecie w formie umożliwiającej dogodną edycję. Paragraf 3¹ upoważnia Ministra Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw informatyzacji, do określenia szczegółowego sposobu wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego. Paragrafy 4 i 5 zostały uchylone.
 
@@ -602,9 +602,9 @@ Przepis otwiera rozdział poświęcony pismom procesowym, definiując tę katego
 
 **Brzmienie przepisu:**
 
-> Art. 125¹. § 1. Jeżeli przepis szczególny tak stanowi i nie jest możliwe wniesienie pisma procesowego za pośrednictwem systemu teleinformatycznego, pismo procesowe wnosi się za pośrednictwem portalu informacyjnego.
+> Art. 125¹.⁽¹⁸⁾ § 1. Jeżeli przepis szczególny tak stanowi i nie jest możliwe wniesienie pisma procesowego za pośrednictwem systemu teleinformatycznego, pismo procesowe wnosi się za pośrednictwem portalu informacyjnego.
 >
-> § 2. Adwokat, radca prawny, rzecznik patentowy, Prokuratoria Generalna Rzeczypospolitej Polskiej lub prokurator wnosi w sposób wskazany w § 1:
+> § 2.⁽¹⁹⁾ Adwokat, radca prawny, rzecznik patentowy, Prokuratoria Generalna Rzeczypospolitej Polskiej lub prokurator wnosi w sposób wskazany w § 1:
 >
 > 1) zgłoszenie się do udziału w sprawie;
 >
@@ -628,9 +628,9 @@ Przepis otwiera rozdział poświęcony pismom procesowym, definiując tę katego
 >
 > § 3. Przepisu § 1 nie stosuje się do pism procesowych wnoszonych do Sądu Najwyższego.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 18) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Wejdzie w życie z dniem 1 marca 2027 r.
+*Odnośnik w tekście jednolitym* 19) Wejdzie w życie z dniem 1 marca 2027 r.
 
 Przepis wprowadza obowiązek wnoszenia niektórych pism procesowych przez profesjonalnych uczestników postępowania za pośrednictwem portalu informacyjnego, jako kanału uzupełniającego lub zastępczego wobec systemu teleinformatycznego. Paragraf 1 przewiduje takie rozwiązanie w sytuacji, gdy przepis szczególny wymaga wniesienia pisma za pośrednictwem portalu, a nie jest możliwe jego wniesienie przez system teleinformatyczny. Paragraf 2 zawiera szczegółowy katalog rodzajów pism, które adwokat, radca prawny, rzecznik patentowy, Prokuratoria Generalna Rzeczypospolitej Polskiej lub prokurator obowiązani są wnosić w ten sposób – obejmuje on m.in. zgłoszenie się do udziału w sprawie, zawiadomienie o wypowiedzeniu pełnomocnictwa procesowego, określone w art. 136 i art. 387¹ zawiadomienia o zmianie miejsca zamieszkania lub adresu do doręczeń, oświadczenie w przedmiocie zgody na mediację, wniosek o przeprowadzenie posiedzenia zdalnego, apelację, zażalenie (z wyłączeniem zażaleń wnoszonych bezpośrednio do sądu drugiej instancji na podstawie art. 394¹ § 1 i 1¹) lub skargę na orzeczenie referendarza sądowego, dalsze pisma w postępowaniach wywołanych wniesieniem tych środków, wniosek o doręczenie orzeczenia z uzasadnieniem wraz z pismami uzupełniającymi jego braki formalne, wniosek o nadanie klauzuli wykonalności określonym tytułom egzekucyjnym (z istotnymi wyłączeniami odsyłającymi do przepisów o odrębnych trybach nadawania klauzuli) oraz wniosek o wydanie odpisu prawomocnego orzeczenia. Paragraf 3 wyłącza stosowanie tego obowiązku do pism wnoszonych do Sądu Najwyższego, którego specyfika postępowania wymaga odrębnych rozwiązań technicznych. Zgodnie z przypisem urzędowym do tego artykułu, regulacja ta – dodana nowelizacją z 5 sierpnia 2025 r. – wejdzie w życie dopiero z dniem 1 marca 2027 r., a zatem w chwili obecnej stanowi prawo przyszłe, jeszcze nieobowiązujące w praktyce sądowej.
 
@@ -638,13 +638,13 @@ Przepis wprowadza obowiązek wnoszenia niektórych pism procesowych przez profes
 
 **Brzmienie przepisu:**
 
-> Art. 125². § 1. W przypadku gdy załącznik pisma procesowego, ze względu na jego właściwości, nie może zostać skutecznie wniesiony wraz z tym pismem za pośrednictwem portalu informacyjnego, załącznik ten wnosi się do sądu z pominięciem portalu informacyjnego, uprawdopodobniając tę okoliczność, w terminie 3 dni od dnia wniesienia pisma procesowego. W przypadku niedopełnienia tych obowiązków sąd pomija ten załącznik.
+> Art. 125².⁽¹⁸⁾ § 1. W przypadku gdy załącznik pisma procesowego, ze względu na jego właściwości, nie może zostać skutecznie wniesiony wraz z tym pismem za pośrednictwem portalu informacyjnego, załącznik ten wnosi się do sądu z pominięciem portalu informacyjnego, uprawdopodobniając tę okoliczność, w terminie 3 dni od dnia wniesienia pisma procesowego. W przypadku niedopełnienia tych obowiązków sąd pomija ten załącznik.
 >
 > § 2. W przypadku gdy w dniu, w którym upływa termin do wniesienia pisma procesowego wystąpią ograniczenia w dostępności portalu informacyjnego leżące po stronie sądu, uniemożliwiające wniesienie tego pisma, pismo to wnosi się najpóźniej w następnym dniu po dniu, w którym przywrócono dostępność tego portalu, niebędącym dniem wolnym od pracy ani sobotą. Jeżeli w ustalonym w ten sposób terminie wystąpią ponownie ograniczenia w dostępności portalu informacyjnego leżące po stronie sądu, stosuje się zdanie pierwsze. W piśmie procesowym należy uprawdopodobnić okoliczności, o których mowa w zdaniu pierwszym lub drugim.
 >
 > § 3. Przewodniczący zwraca pismo procesowe albo sąd odrzuca środek zaskarżenia w wypadku nieuprawdopodobnienia okoliczności określonych w § 2 zdanie pierwsze lub drugie.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 18) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
 
 Przepis rozwiązuje praktyczne problemy związane z wnoszeniem załączników do pism składanych za pośrednictwem portalu informacyjnego oraz z sytuacjami czasowej niedostępności tego portalu. Paragraf 1 przewiduje, że jeżeli załącznik pisma, ze względu na swoje właściwości (np. rozmiar pliku, format niemożliwy do przesłania), nie może zostać skutecznie wniesiony wraz z pismem za pośrednictwem portalu, wnosi się go do sądu z pominięciem portalu, uprawdopodabniając tę okoliczność, w terminie 3 dni od wniesienia pisma – niedopełnienie tego obowiązku skutkuje pominięciem załącznika przez sąd. Paragraf 2 chroni stronę przed skutkami awarii portalu informacyjnego leżącej po stronie sądu, występującej w dniu upływu terminu do wniesienia pisma – pismo można wówczas skutecznie wnieść najpóźniej w pierwszym kolejnym dniu roboczym po przywróceniu dostępności portalu, z obowiązkiem uprawdopodobnienia okoliczności wystąpienia ograniczeń dostępności; przepis przewiduje także mechanizm na wypadek ponownego wystąpienia takich ograniczeń w nowo wyznaczonym terminie. Paragraf 3 określa sankcję za nieuprawdopodobnienie okoliczności, o których mowa w § 2 – przewodniczący zwraca pismo procesowe albo, w przypadku środka zaskarżenia, sąd go odrzuca, co podkreśla wagę dochowania staranności przy powoływaniu się na trudności techniczne.
 
@@ -652,11 +652,11 @@ Przepis rozwiązuje praktyczne problemy związane z wnoszeniem załączników do
 
 **Brzmienie przepisu:**
 
-> Art. 125³. § 1. Jeżeli przepis szczególny stanowi, że pismo procesowe wnosi się za pośrednictwem portalu informacyjnego i nie zachodzi okoliczność, o której mowa w art. 125² § 1, pismo procesowe wniesione w inny sposób nie wywołuje skutków prawnych, jakie ustawa wiąże z wniesieniem pisma procesowego do sądu, o czym przewodniczący zawiadamia wnoszącego to pismo.
+> Art. 125³.⁽¹⁸⁾ § 1. Jeżeli przepis szczególny stanowi, że pismo procesowe wnosi się za pośrednictwem portalu informacyjnego i nie zachodzi okoliczność, o której mowa w art. 125² § 1, pismo procesowe wniesione w inny sposób nie wywołuje skutków prawnych, jakie ustawa wiąże z wniesieniem pisma procesowego do sądu, o czym przewodniczący zawiadamia wnoszącego to pismo.
 >
 > § 2. Pismo procesowe wniesione za pośrednictwem portalu informacyjnego w przypadku nieprzewidzianym w przepisie szczególnym lub przez osobę nieuprawnioną nie wywołuje skutków prawnych, jakie ustawa wiąże z wniesieniem pisma procesowego do sądu, o czym przewodniczący zawiadamia wnoszącego to pismo.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 18) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje skutki naruszenia obowiązku wnoszenia pism za pośrednictwem portalu informacyjnego oraz sytuacji odwrotnej – wniesienia pisma tym kanałem bez podstawy prawnej. Paragraf 1 stanowi, że pismo procesowe, które zgodnie z przepisem szczególnym powinno zostać wniesione za pośrednictwem portalu informacyjnego, a zostało wniesione w inny sposób – przy braku okoliczności usprawiedliwiających z art. 125² § 1 – nie wywołuje skutków prawnych wiązanych przez ustawę z wniesieniem pisma do sądu, o czym przewodniczący zawiadamia stronę wnoszącą pismo. Paragraf 2 reguluje sytuację przeciwną – pismo wniesione za pośrednictwem portalu w przypadku nieprzewidzianym przez przepis szczególny albo przez osobę do tego nieuprawnioną również nie wywołuje takich skutków, o czym przewodniczący również zawiadamia stronę. Oba mechanizmy mają zapewnić przewidywalność i jednolitość systemu wnoszenia pism elektronicznych, eliminując dowolność w wyborze kanału komunikacji z sądem tam, gdzie ustawa precyzyjnie go określa.
 
@@ -664,9 +664,9 @@ Przepis reguluje skutki naruszenia obowiązku wnoszenia pism za pośrednictwem p
 
 **Brzmienie przepisu:**
 
-> Art. 125⁴. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, treść dokumentu w postaci elektronicznej potwierdzającego wniesienie pisma procesowego do sądu, sposób i zakres informowania o ograniczeniu dostępności portalu informacyjnego, sposób wnoszenia do sądu pism procesowych i ich załączników za pośrednictwem portalu informacyjnego oraz ich elektroniczną postać, w tym wymagania dotyczące dokumentów składanych w postaci elektronicznej, jak również sposób poświadczania dokumentów w portalu informacyjnym, mając na względzie skuteczność ich wnoszenia oraz konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma procesowe.
+> Art. 125⁴.⁽¹⁸⁾ Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, treść dokumentu w postaci elektronicznej potwierdzającego wniesienie pisma procesowego do sądu, sposób i zakres informowania o ograniczeniu dostępności portalu informacyjnego, sposób wnoszenia do sądu pism procesowych i ich załączników za pośrednictwem portalu informacyjnego oraz ich elektroniczną postać, w tym wymagania dotyczące dokumentów składanych w postaci elektronicznej, jak również sposób poświadczania dokumentów w portalu informacyjnym, mając na względzie skuteczność ich wnoszenia oraz konieczność zapewnienia sprawnego toku postępowania, a także ochronę praw osób wnoszących pisma procesowe.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 18) Dodany przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 11.
 
 Przepis zawiera delegację ustawową dla Ministra Sprawiedliwości, działającego w porozumieniu z ministrem właściwym do spraw informatyzacji, do uregulowania w drodze rozporządzenia szeregu kwestii technicznych związanych z elektronicznym obiegiem pism procesowych za pośrednictwem portalu informacyjnego: treści dokumentu elektronicznego potwierdzającego wniesienie pisma do sądu, sposobu i zakresu informowania uczestników postępowania o ograniczeniach dostępności portalu, sposobu wnoszenia pism i ich załączników za pośrednictwem portalu wraz z wymaganą postacią elektroniczną (w tym wymogami dotyczącymi dokumentów składanych elektronicznie), a także sposobu poświadczania dokumentów w portalu informacyjnym. Regulacja wykonawcza ma uwzględniać zarówno skuteczność wnoszenia pism i konieczność zapewnienia sprawnego toku postępowania, jak i ochronę praw osób korzystających z tego kanału komunikacji z sądem.
 
@@ -702,19 +702,19 @@ Przepis zawiera delegację ustawową dla Ministra Sprawiedliwości, działające
 >
 > § 2¹. Dalsze pisma procesowe, poza elementami określonymi w § 1, powinny zawierać sygnaturę akt.
 >
-> § 3. Do pisma procesowego należy dołączyć pełnomocnictwo albo jego uwierzytelniony odpis, jeżeli pismo to wnosi pełnomocnik, który wcześniej nie złożył pełnomocnictwa. Jeżeli pełnomocnik wnosi pismo procesowe za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, pełnomocnictwo udzielone w postaci elektronicznej albo jego elektronicznie uwierzytelniony odpis wnosi się wraz z tym pismem. W piśmie tym podaje się numer wpisu pełnomocnika na właściwą listę, w przypadku gdy pismo to jest wnoszone przez pełnomocnika strony będącego adwokatem, radcą prawnym lub rzecznikiem patentowym.
+> § 3.⁽²⁰⁾ Do pisma procesowego należy dołączyć pełnomocnictwo albo jego uwierzytelniony odpis, jeżeli pismo to wnosi pełnomocnik, który wcześniej nie złożył pełnomocnictwa. Jeżeli pełnomocnik wnosi pismo procesowe za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, pełnomocnictwo udzielone w postaci elektronicznej albo jego elektronicznie uwierzytelniony odpis wnosi się wraz z tym pismem. W piśmie tym podaje się numer wpisu pełnomocnika na właściwą listę, w przypadku gdy pismo to jest wnoszone przez pełnomocnika strony będącego adwokatem, radcą prawnym lub rzecznikiem patentowym.
 >
 > § 3¹. Przepisu § 3 nie stosuje się do pism wnoszonych w elektronicznym postępowaniu upominawczym.
 >
 > § 4. Za stronę, która nie może się podpisać, podpisuje pismo osoba przez nią upoważniona, z wymienieniem przyczyny, dla której strona sama się nie podpisała.
 >
-> § 5. Pismo procesowe wniesione za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury.
+> § 5.⁽²¹⁾ Pismo procesowe wniesione za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym, a w przypadku prokuratora – także zaawansowanym podpisem elektronicznym wydawanym przez właściwe jednostki organizacyjne prokuratury.
 >
 > § 6. (uchylony)
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 20) W brzmieniu ustalonym przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 21) W brzmieniu ustalonym przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis stanowi centralną regulację określającą obligatoryjną treść każdego pisma procesowego oraz dodatkowe wymogi dotyczące pierwszego pisma w sprawie. Paragraf 1 wymienia siedem elementów, które powinno zawierać każde pismo procesowe: oznaczenie sądu, do którego jest skierowane (pkt 1); imiona i nazwiska lub nazwy stron oraz ich przedstawicieli ustawowych i pełnomocników (pkt 2); oznaczenie rodzaju pisma (pkt 3); osnowę, czyli treść merytoryczną wniosku lub oświadczenia (pkt 4); wskazanie faktów, na których strona opiera swój wniosek lub oświadczenie, wraz ze wskazaniem dowodu na wykazanie każdego z nich, o ile jest to konieczne do rozstrzygnięcia (pkt 5); podpis strony, jej przedstawiciela ustawowego lub pełnomocnika (pkt 6); oraz wymienienie załączników (pkt 7). Paragraf 1¹ nakłada obowiązek faktycznego dołączenia do pisma załączników w nim wymienionych – samo ich wskazanie nie jest wystarczające. Paragraf 2 rozszerza wymogi formalne dla pisma będącego pierwszym pismem w sprawie (najczęściej pozwu), nakazując dodatkowo oznaczenie przedmiotu sporu oraz podanie miejsca zamieszkania lub siedziby i adresów stron (lub – dla przedsiębiorcy wpisanego do CEIDG – adresu do doręczeń wpisanego do tej ewidencji), a także adresów przedstawicieli ustawowych i pełnomocników, numeru PESEL lub NIP powoda będącego osobą fizyczną (jeżeli jest zobowiązany do jego posiadania lub go posiada), oraz numeru w Krajowym Rejestrze Sądowym, innym właściwym rejestrze lub ewidencji, względnie NIP powoda niebędącego osobą fizyczną. Paragraf 2¹ nakazuje, by dalsze pisma w toku sprawy zawierały ponadto sygnaturę akt, co umożliwia ich prawidłowe zakwalifikowanie do właściwych akt sądowych. Paragraf 3 nakłada na pełnomocnika, który wcześniej nie złożył pełnomocnictwa, obowiązek dołączenia go (lub uwierzytelnionego odpisu) do pisma, z uwzględnieniem szczególnych zasad dla pism wnoszonych elektronicznie, w tym obowiązku podania numeru wpisu na listę, jeżeli pismo wnosi pełnomocnik będący adwokatem, radcą prawnym lub rzecznikiem patentowym. Paragraf 3¹ wyłącza ten obowiązek w elektronicznym postępowaniu upominawczym, którego specyfika przewiduje odrębne zasady. Paragraf 4 reguluje kwestię podpisania pisma za stronę niemogącą się podpisać, analogicznie do regulacji z art. 90 dotyczącej pełnomocnictwa. Paragraf 5 określa wymaganą formę podpisu pism wnoszonych za pośrednictwem systemu teleinformatycznego lub portalu informacyjnego – kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty, a w przypadku prokuratora – dodatkowo zaawansowany podpis elektroniczny wydawany przez jednostki organizacyjne prokuratury. Paragraf 6 został uchylony.
 
@@ -756,17 +756,15 @@ Przepis definiuje szczególną kategorię pisma procesowego – pismo przygotowa
 
 > Art. 128. § 1. Do pisma procesowego należy dołączyć jego odpisy i odpisy załączników dla doręczenia ich uczestniczącym w sprawie osobom, a ponadto, jeżeli w sądzie nie złożono załączników w oryginale, po jednym odpisie każdego załącznika do akt sądowych.
 >
-> § 2. Do pisma procesowego wnoszonego za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego dołącza się załączniki utrwalone w postaci elektronicznej.
+> § 2.⁽²²⁾ Do pisma procesowego wnoszonego za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego dołącza się załączniki utrwalone w postaci elektronicznej.
 >
-> § 3. Jeżeli z przepisu szczególnego lub postanowienia sądu albo zarządzenia przewodniczącego wynika obowiązek złożenia oryginału dokumentu sporządzonego w postaci papierowej, a strona lub pełnomocnik obowiązani są do wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, oryginał dokumentu składa się do sądu z ich pominięciem.
+> § 3.⁽²³⁾ Jeżeli z przepisu szczególnego lub postanowienia sądu albo zarządzenia przewodniczącego wynika obowiązek złożenia oryginału dokumentu sporządzonego w postaci papierowej, a strona lub pełnomocnik obowiązani są do wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, oryginał dokumentu składa się do sądu z ich pominięciem.
 >
-> § 4. Jeżeli przepis szczególny przewiduje obowiązek dołączenia do pisma procesowego oryginału dokumentu sporządzonego w postaci papierowej, a strona lub pełnomocnik obowiązani są do wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, oryginał takiego dokumentu składa się w terminie 3 dni roboczych od dnia wniesienia pisma procesowego.
+> § 4.⁽²³⁾ Jeżeli przepis szczególny przewiduje obowiązek dołączenia do pisma procesowego oryginału dokumentu sporządzonego w postaci papierowej, a strona lub pełnomocnik obowiązani są do wnoszenia pism procesowych za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego, oryginał takiego dokumentu składa się w terminie 3 dni roboczych od dnia wniesienia pisma procesowego.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 7 lit. a ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 22) W brzmieniu ustalonym przez art. 1 pkt 7 lit. a ustawy, o której mowa w odnośniku 11.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 11.
-
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 23) Dodany przez art. 1 pkt 7 lit. b ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje obowiązek dołączania do pisma procesowego odpisów przeznaczonych dla innych uczestników postępowania oraz dla akt sądowych, a także zasady postępowania z oryginałami dokumentów papierowych w warunkach obowiązku elektronicznego wnoszenia pism. Paragraf 1 nakłada obowiązek dołączenia do pisma jego odpisów oraz odpisów załączników, przeznaczonych do doręczenia uczestniczącym w sprawie osobom, a ponadto – jeżeli załączniki nie zostały złożone w oryginale – po jednym odpisie każdego załącznika do akt sądowych. Paragraf 2 dostosowuje ten wymóg do obiegu elektronicznego – przy piśmie wnoszonym za pośrednictwem systemu teleinformatycznego albo portalu informacyjnego dołącza się załączniki utrwalone w postaci elektronicznej, bez potrzeby sporządzania osobnych odpisów papierowych. Paragraf 3 reguluje sytuację kolizyjną, gdy z przepisu szczególnego, postanowienia sądu lub zarządzenia przewodniczącego wynika obowiązek złożenia oryginału dokumentu papierowego, a jednocześnie strona lub pełnomocnik są zobowiązani do wnoszenia pism elektronicznie – w takim przypadku oryginał składa się do sądu z pominięciem systemu teleinformatycznego lub portalu, a więc w sposób tradycyjny. Paragraf 4 określa termin na złożenie takiego oryginału, jeżeli obowiązek jego dołączenia wynika z przepisu szczególnego – 3 dni robocze od dnia wniesienia pisma procesowego, co pozwala zachować spójność między elektronicznym wniesieniem pisma a fizycznym dostarczeniem wymaganego dokumentu papierowego.
 
@@ -784,21 +782,17 @@ Przepis nakłada na pisma wnoszone przez stronę zastępowaną przez profesjonal
 
 > Art. 129. § 1. Strona powołująca się w piśmie na dokument obowiązana jest na żądanie przeciwnika złożyć oryginał dokumentu w sądzie jeszcze przed rozprawą.
 >
-> § 2. Zamiast oryginału dokumentu strona może złożyć odpis dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub rzecznikiem patentowym, albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej.
+> § 2.⁽²⁴⁾ Zamiast oryginału dokumentu strona może złożyć odpis dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub rzecznikiem patentowym, albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej.
 >
-> § 2¹. Występujący w sprawie pełnomocnik będący adwokatem, radcą prawnym lub rzecznikiem patentowym albo radca lub referendarz Prokuratorii Generalnej Rzeczypospolitej Polskiej może elektronicznie poświadczyć dokument w systemie teleinformatycznym albo portalu informacyjnym.
+> § 2¹.⁽²⁴⁾ Występujący w sprawie pełnomocnik będący adwokatem, radcą prawnym lub rzecznikiem patentowym albo radca lub referendarz Prokuratorii Generalnej Rzeczypospolitej Polskiej może elektronicznie poświadczyć dokument w systemie teleinformatycznym albo portalu informacyjnym.
 >
-> § 3. Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez występującego w sprawie pełnomocnika strony, będącego adwokatem, radcą prawnym lub rzecznikiem patentowym albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, ma charakter dokumentu urzędowego.
+> § 3.⁽²⁴⁾ Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez występującego w sprawie pełnomocnika strony, będącego adwokatem, radcą prawnym lub rzecznikiem patentowym albo radcę lub referendarza Prokuratorii Generalnej Rzeczypospolitej Polskiej, ma charakter dokumentu urzędowego.
 >
 > § 4. Jeżeli jest to uzasadnione okolicznościami sprawy, sąd, na wniosek strony albo z urzędu, zażąda od strony składającej odpis dokumentu, o którym mowa w § 2, przedłożenia oryginału tego dokumentu.
 >
 > § 5. Minister Sprawiedliwości określi, w drodze rozporządzenia, formaty, w jakich odpisy pism, dokumentów i pełnomocnictw mogą być poświadczane elektronicznie, mając na względzie minimalne wymagania dla rejestrów publicznych i wymiany informacji w postaci elektronicznej.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 11.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 11.
-
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 24) W brzmieniu ustalonym przez art. 1 pkt 8 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje zasady dowodzenia treści dokumentów powoływanych przez stronę w piśmie procesowym oraz dopuszczalność posługiwania się ich odpisami zamiast oryginałów. Paragraf 1 nakłada na stronę powołującą się w piśmie na dokument obowiązek złożenia jego oryginału w sądzie jeszcze przed rozprawą, na żądanie przeciwnika – co ma umożliwić stronie przeciwnej zapoznanie się z autentycznym dokumentem i ewentualne zakwestionowanie jego prawdziwości. Paragraf 2 dopuszcza złożenie zamiast oryginału odpisu dokumentu, którego zgodność z oryginałem została poświadczona przez notariusza albo przez występującego w sprawie profesjonalnego pełnomocnika strony (adwokata, radcę prawnego, rzecznika patentowego) bądź radcę lub referendarza Prokuratorii Generalnej – rozwiązanie to znacząco upraszcza obrót dokumentami w toku procesu, eliminując konieczność każdorazowego przedkładania oryginałów. Paragraf 2¹ dopuszcza elektroniczne poświadczenie takiego dokumentu w systemie teleinformatycznym albo portalu informacyjnym przez uprawnionego pełnomocnika. Paragraf 3 nadaje poświadczeniu zgodności z oryginałem dokonanemu przez takiego pełnomocnika charakter dokumentu urzędowego, co wiąże się z domniemaniem prawdziwości i zgodności z prawdą treści w nim zawartych, korzystniejszym niż w przypadku zwykłego dokumentu prywatnego. Paragraf 4 zachowuje jednak kontrolę sądu nad autentycznością dokumentów – jeżeli uzasadniają to okoliczności sprawy, sąd, na wniosek strony lub z urzędu, może zażądać od strony składającej odpis przedłożenia oryginału dokumentu, mimo dokonanego wcześniej poświadczenia. Paragraf 5 zawiera delegację dla Ministra Sprawiedliwości do określenia formatów, w jakich odpisy pism, dokumentów i pełnomocnictw mogą być poświadczane elektronicznie.
 
@@ -830,7 +824,7 @@ Przepis reguluje podstawowy tryb usuwania braków formalnych pism procesowych or
 
 **Brzmienie przepisu:**
 
-> Art. 130¹. § 1. (utracił moc) § 1¹. Jeżeli pismo procesowe, które powinno być wniesione na urzędowym formularzu, nie zostało wniesione na takim formularzu lub nie może otrzymać prawidłowego biegu na skutek niezachowania innych warunków formalnych, przewodniczący wzywa stronę do jego poprawienia lub uzupełnienia w terminie tygodniowym, przesyłając złożone pismo. Wezwanie powinno wskazywać wszystkie braki pisma oraz zawierać pouczenie o treści § 2.
+> Art. 130¹. § 1. (utracił moc)⁽²⁵⁾ § 1¹. Jeżeli pismo procesowe, które powinno być wniesione na urzędowym formularzu, nie zostało wniesione na takim formularzu lub nie może otrzymać prawidłowego biegu na skutek niezachowania innych warunków formalnych, przewodniczący wzywa stronę do jego poprawienia lub uzupełnienia w terminie tygodniowym, przesyłając złożone pismo. Wezwanie powinno wskazywać wszystkie braki pisma oraz zawierać pouczenie o treści § 2.
 >
 > § 2. W razie bezskutecznego upływu terminu lub ponownego złożenia pisma dotkniętego brakami przewodniczący zarządza zwrot pisma. Sprzeciw od wyroku zaocznego, zarzuty od nakazu zapłaty oraz sprzeciw od nakazu zapłaty sąd odrzuca.
 >
@@ -838,7 +832,7 @@ Przepis reguluje podstawowy tryb usuwania braków formalnych pism procesowych or
 >
 > § 4. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Z dniem 25 marca 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 12 marca 2002 r. sygn. akt P. 9/01 (Dz. U. poz. 265).
+*Odnośnik w tekście jednolitym* 25) Z dniem 25 marca 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 12 marca 2002 r. sygn. akt P. 9/01 (Dz. U. poz. 265).
 
 Przepis uzupełnia ogólny tryb z art. 130 o szczególne zasady dotyczące pism, które powinny być wniesione na urzędowym formularzu, oraz precyzuje konsekwencje ich wadliwości. Paragraf 1 utracił moc – z przypisu urzędowego wynika, że nastąpiło to z dniem 25 marca 2002 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 12 marca 2002 r., sygn. akt P. 9/01, który stwierdził niezgodność tego przepisu z Konstytucją. Paragraf 1¹ określa aktualnie obowiązujący tryb postępowania z pismem, które powinno być wniesione na urzędowym formularzu, a nie zostało na nim wniesione, albo które nie może otrzymać prawidłowego biegu z powodu niezachowania innych warunków formalnych – przewodniczący wzywa wówczas stronę do poprawienia lub uzupełnienia pisma w terminie tygodniowym, przesyłając jej złożone pismo, przy czym wezwanie musi wskazywać wszystkie stwierdzone braki oraz zawierać pouczenie o treści § 2. Paragraf 2 określa skutek bezskutecznego upływu terminu lub ponownego złożenia pisma nadal dotkniętego brakami – przewodniczący zarządza zwrot pisma, z zastrzeżeniem, że w przypadku sprzeciwu od wyroku zaocznego, zarzutów od nakazu zapłaty oraz sprzeciwu od nakazu zapłaty sąd taki środek odrzuca, a nie zwraca – co wynika z odmiennego charakteru tych pism jako środków zaskarżenia, do których stosuje się rygor odrzucenia właściwy dla takich środków. Paragrafy 3 i 4 zostały uchylone. Zgodnie z drugim przypisem urzędowym, zmiana obecnego brzmienia paragrafu 1¹ wynika z nowelizacji z 5 sierpnia 2025 r. i weszła w życie z dniem 10 września 2025 r.
 
@@ -846,9 +840,9 @@ Przepis uzupełnia ogólny tryb z art. 130 o szczególne zasady dotyczące pism,
 
 **Brzmienie przepisu:**
 
-> Art. 130¹ᵃ. (uchylony)
+> Art. 130¹ᵃ. (uchylony)⁽²⁶⁾
 
-*Odnośnik w tekście jednolitym:* Przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
+*Odnośnik w tekście jednolitym* 26) Przez art. 1 pkt 9 ustawy, o której mowa w odnośniku 11; wszedł w życie z dniem 10 września 2025 r.
 
 Artykuł 130¹ᵃ, umieszczony w tym samym zespole przepisów co art. 130 i 130¹, regulujących usuwanie braków formalnych pism procesowych oraz skutki ich nieopłacenia, został uchylony przez art. 1 pkt 9 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks cywilny oraz niektórych innych ustaw, przy czym – jak wynika z przypisu urzędowego do tego przepisu – uchylenie weszło w życie już z dniem 10 września 2025 r., a więc wcześniej niż większość pozostałych zmian wprowadzonych tą nowelizacją w niniejszym dziale (które zaczęły obowiązywać dopiero od 1 marca 2026 r.). Obecnie przepis nie wywołuje żadnych skutków prawnych, a materia dotycząca trybu usuwania braków formalnych pism procesowych oraz zwrotu pism wadliwych lub nieopłaconych jest kompleksowo uregulowana w bezpośrednio sąsiadujących przepisach – art. 130 (ogólny tryb wzywania do uzupełnienia braków i opłacenia pisma) oraz art. 130¹ (szczególny tryb dotyczący pism wnoszonych na urzędowych formularzach).
 

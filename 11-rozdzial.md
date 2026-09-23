@@ -620,7 +620,7 @@ Przepis otwiera dział VIII kodeksu, poświęcony postępowaniom elektronicznym,
 
 **Brzmienie przepisu:**
 
-> Art. 505²⁹. § 1. W elektronicznym postępowaniu upominawczym nie stosuje się przepisów o postępowaniach odrębnych innych niż wymienione w art. 505²⁸ § 1 oraz przepisów art. 89 § 1, art. 125¹, art. 139 § 5 i art. 139¹.
+> Art. 505²⁹. § 1.⁽⁷¹⁾ W elektronicznym postępowaniu upominawczym nie stosuje się przepisów o postępowaniach odrębnych innych niż wymienione w art. 505²⁸ § 1 oraz przepisów art. 89 § 1, art. 125¹, art. 139 § 5 i art. 139¹.
 >
 > § 2. Postanowienia wydane na posiedzeniu niejawnym, które podlegają zaskarżeniu, uzasadnia się z urzędu. Termin do wniesienia zażalenia wynosi tydzień od dnia doręczenia postanowienia z uzasadnieniem.
 >
@@ -628,7 +628,7 @@ Przepis otwiera dział VIII kodeksu, poświęcony postępowaniom elektronicznym,
 >
 > § 4. Postanowienia wydane na podstawie art. 505³³ i art. 505³⁴ doręcza się z urzędu tylko powodowi.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 25 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 71) W brzmieniu ustalonym przez art. 1 pkt 25 ustawy, o której mowa w odnośniku 11.
 
 Przepis rozwija odrębności elektronicznego postępowania upominawczego względem postępowania upominawczego prowadzonego w zwykłym trybie. Paragraf 1 wyłącza w EPU stosowanie przepisów o innych postępowaniach odrębnych niż wymienione w art. 505²⁸ § 1, a także wyłącza stosowanie art. 89 § 1 (dotyczącego wykazywania pełnomocnictwa dokumentem), art. 125¹ (elektronicznej formy pism procesowych na zasadach ogólnych), art. 139 § 5 i art. 139¹ (niektórych sposobów doręczeń, w tym przez komornika) – wyłączenia te są konsekwencją odrębnego, w pełni zinformatyzowanego systemu doręczeń i wnoszenia pism właściwego dla EPU, unormowanego szczegółowo w kolejnych przepisach rozdziału. Paragraf 2 nakłada obowiązek uzasadniania z urzędu postanowień wydanych na posiedzeniu niejawnym, które podlegają zaskarżeniu, oraz wyznacza tygodniowy termin do wniesienia zażalenia liczony od dnia doręczenia postanowienia z uzasadnieniem. Paragraf 3 nakazuje odpowiednie stosowanie tej reguły do zarządzeń przewodniczącego. Paragraf 4 ogranicza krąg adresatów doręczenia postanowień wydanych na podstawie art. 505³³ i art. 505³⁴ wyłącznie do powoda – rozwiązanie uzasadnione tym, że w tych sytuacjach postępowanie kończy się bez skutecznego włączenia pozwanego w spór (umorzenie z braku podstaw do wydania nakazu albo z powodu niemożności doręczenia).
 
@@ -660,7 +660,7 @@ Przepis reguluje formę czynności podejmowanych w elektronicznym postępowaniu 
 >
 > § 2¹. Pisma wniesione za pośrednictwem systemu teleinformatycznego nie wymagają opatrzenia ich podpisem, o którym mowa w art. 126 § 5.
 >
-> § 2². Pełnomocnik powołuje się na pełnomocnictwo, wskazując jego zakres oraz okoliczności wymienione w art. 87, wnosząc pierwsze pismo procesowe w sprawie.
+> § 2².⁽⁷²⁾ Pełnomocnik powołuje się na pełnomocnictwo, wskazując jego zakres oraz okoliczności wymienione w art. 87, wnosząc pierwsze pismo procesowe w sprawie.
 >
 > § 3. (uchylony)
 >
@@ -670,7 +670,7 @@ Przepis reguluje formę czynności podejmowanych w elektronicznym postępowaniu 
 >
 > § 6. (uchylony)
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 26 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 72) Dodany przez art. 1 pkt 26 ustawy, o której mowa w odnośniku 11.
 
 Przepis reguluje zasady wnoszenia pism procesowych w elektronicznym postępowaniu upominawczym. Paragraf 1 nakłada na powoda obowiązek wnoszenia pism wyłącznie za pośrednictwem systemu teleinformatycznego – jest to obligatoryjna elektronizacja po stronie inicjującej postępowanie, uzasadniona masowym, wierzytelnościowym charakterem spraw typowo kierowanych do EPU. Paragraf 2 wprowadza zasadę związania pozwanego jego własnym wyborem: jeżeli zdecyduje się on na wnoszenie pism za pośrednictwem systemu teleinformatycznego, dalsze pisma w sprawie musi wnosić wyłącznie w tej formie. Paragraf 2¹ zwalnia pisma wnoszone elektronicznie z wymogu opatrzenia ich podpisem, o którym mowa w art. 126 § 5 – autoryzacja czynności następuje bowiem przez sam mechanizm uwierzytelnienia w systemie. Paragraf 2² upraszcza wykazywanie umocowania pełnomocnika: powołuje się on na pełnomocnictwo, wskazując jego zakres oraz okoliczności wymienione w art. 87, już przy wnoszeniu pierwszego pisma procesowego w sprawie, bez konieczności składania samego dokumentu pełnomocnictwa. Paragrafy 3, 5 i 6 zostały uchylone. Paragraf 4 nakłada na sąd obowiązek pouczenia pozwanego o skutkach wniesienia pisma za pośrednictwem systemu teleinformatycznego przy pierwszym doręczeniu – co ma zapewnić pozwanemu, nieprofesjonalnemu zwykle uczestnikowi obrotu, świadomość konsekwencji wyboru elektronicznej formy komunikacji z sądem.
 
@@ -852,9 +852,9 @@ Przepis dopuszcza w postępowaniu wieczystoksięgowym oraz w postępowaniach rej
 
 **Brzmienie przepisu:**
 
-> Art. 511¹ᵇ. Przepisu art. 125¹ § 1 nie stosuje się do pism procesowych wnoszonych w postępowaniu wieczystoksięgowym oraz postępowaniach rejestrowych.
+> Art. 511¹ᵇ.⁽⁷³⁾ Przepisu art. 125¹ § 1 nie stosuje się do pism procesowych wnoszonych w postępowaniu wieczystoksięgowym oraz postępowaniach rejestrowych.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 73) Dodany przez art. 1 pkt 27 ustawy, o której mowa w odnośniku 11.
 
 Przepis, dodany na mocy nowelizacji wskazanej w odnośniku 11 tekstu jednolitego, wyłącza stosowanie art. 125¹ § 1 do pism procesowych wnoszonych w postępowaniu wieczystoksięgowym oraz w postępowaniach rejestrowych. Oznacza to, że uczestnicy tych postępowań są zwolnieni z ogólnego reżimu obowiązkowego wnoszenia pism procesowych w formie elektronicznej, przewidzianego wskazanym przepisem dla określonych kategorii podmiotów lub spraw – w postępowaniu wieczystoksięgowym i rejestrowym pisma mogą być zatem skutecznie wnoszone także w tradycyjnej, papierowej formie, niezależnie od tego, czy w innym postępowaniu dany podmiot podlegałby obowiązkowi elektronizacji. Wyłączenie to uwzględnia specyfikę tych postępowań oraz krąg ich uczestników, obejmujący często osoby fizyczne niedziałające profesjonalnie w obrocie prawnym, dla których obowiązek korzystania z systemu teleinformatycznego mógłby stanowić nadmierną barierę dostępu do sądu; jednocześnie przepis ten stanowi wyjątek od ogólnej tendencji do elektronizacji postępowania cywilnego, uzasadniony masowym i często nieprofesjonalnym charakterem uczestnictwa w sprawach wieczystoksięgowych i rejestrowych.
 

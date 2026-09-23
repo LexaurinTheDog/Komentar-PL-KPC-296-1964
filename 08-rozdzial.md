@@ -860,13 +860,13 @@ Przepis został uchylony i w obecnym stanie prawnym nie zawiera samodzielnej nor
 
 **Brzmienie przepisu:**
 
-> Art. 458³ᵃ. § 1. W sprawach, o których mowa w art. 458² § 1 pkt 5, sąd przed posiedzeniem przygotowawczym albo pierwszym posiedzeniem wyznaczonym na rozprawę kieruje strony do mediacji.
+> Art. 458³ᵃ.⁽⁵⁸⁾ § 1. W sprawach, o których mowa w art. 458² § 1 pkt 5, sąd przed posiedzeniem przygotowawczym albo pierwszym posiedzeniem wyznaczonym na rozprawę kieruje strony do mediacji.
 >
 > § 2. Przepisu § 1 nie stosuje się do spraw podlegających rozpoznaniu w postępowaniu upominawczym, elektronicznym postępowaniu upominawczym albo postępowaniu nakazowym. W przypadku gdy po wydaniu nakazu zapłaty wniesiono sprzeciw w postępowaniu upominawczym albo zarzuty w postępowaniu nakazowym, sąd przed posiedzeniem przygotowawczym albo pierwszym posiedzeniem wyznaczonym na rozprawę kieruje strony do mediacji.
 >
 > § 3. Po skierowaniu stron do mediacji sąd podejmuje czynności służące do przygotowania posiedzenia przygotowawczego albo rozprawy.
 
-*Odnośnik w tekście jednolitym:* Dodany przez art. 1 pkt 24 ustawy, o której mowa w odnośniku 11.
+*Odnośnik w tekście jednolitym* 58) Dodany przez art. 1 pkt 24 ustawy, o której mowa w odnośniku 11.
 
 Przepis wprowadza obowiązkowe skierowanie stron do mediacji w określonej kategorii spraw gospodarczych, stanowiąc istotny wyjątek od zasady fakultatywności mediacji przyjętej w postępowaniu cywilnym. Paragraf 1 nakłada na sąd obowiązek skierowania stron do mediacji przed posiedzeniem przygotowawczym albo pierwszym posiedzeniem wyznaczonym na rozprawę w sprawach, o których mowa w art. 458² § 1 pkt 5 – a więc w sprawach z umów o roboty budowlane i umów ściśle związanych z procesem budowlanym, w których spory bywają szczególnie złożone dowodowo i kosztowne, co czyni próbę ugodowego zakończenia sporu przed formalnym rozpoczęciem sporu sądowego szczególnie uzasadnioną gospodarczo i organizacyjnie. Skierowanie do mediacji następuje tu z mocy ustawy, niezależnie od stanowiska stron co do celowości takiej próby, co odróżnia ten mechanizm od ogólnej regulacji mediacji, opartej na zasadzie dobrowolności i inicjatywy stron lub sądu.
 

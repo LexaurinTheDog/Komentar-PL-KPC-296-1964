@@ -6,11 +6,11 @@
 
 **Brzmienie przepisu:**
 
-> Art. 952. § 1. Zajęta nieruchomość ulega sprzedaży w drodze licytacji elektronicznej albo licytacji publicznej. Termin licytacji nie może być wyznaczony wcześniej niż po upływie dwóch tygodni po uprawomocnieniu się opisu i oszacowania ani też przed uprawomocnieniem się wyroku, na podstawie którego wszczęto egzekucję.
+> Art. 952.⁽⁹⁸⁾ § 1. Zajęta nieruchomość ulega sprzedaży w drodze licytacji elektronicznej albo licytacji publicznej. Termin licytacji nie może być wyznaczony wcześniej niż po upływie dwóch tygodni po uprawomocnieniu się opisu i oszacowania ani też przed uprawomocnieniem się wyroku, na podstawie którego wszczęto egzekucję.
 >
 > § 2. Komornik dokonuje sprzedaży nieruchomości w drodze licytacji elektronicznej, chyba że przed uprawomocnieniem się opisu i oszacowania wierzyciel zażąda sprzedaży w drodze licytacji publicznej. Jeżeli nieruchomość została zajęta na zaspokojenie kilku wierzytelności dochodzonych przez różnych wierzycieli, żądanie takie może zgłosić którykolwiek z wierzycieli.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 9 października 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 1518), która weszła w życie z dniem 5 grudnia 2025 r.
+*Odnośnik w tekście jednolitym* 98) W brzmieniu ustalonym przez art. 1 pkt 1 ustawy z dnia 9 października 2025 r. o zmianie ustawy – Kodeks postępowania cywilnego (Dz. U. poz. 1518), która weszła w życie z dniem 5 grudnia 2025 r.
 
 Przepis otwiera rozdział 4 działu VI tytułu II części trzeciej Kodeksu i ustanawia podstawową zasadę sprzedaży zajętej nieruchomości w postępowaniu egzekucyjnym: sprzedaż następuje wyłącznie w drodze licytacji, przy czym ustawodawca przewiduje dwie jej formy — licytację elektroniczną oraz licytację publiczną (tradycyjną, ustną). Paragraf 1 określa dwie granice czasowe wyznaczenia terminu licytacji: termin nie może zostać wyznaczony wcześniej niż po upływie dwóch tygodni od uprawomocnienia się opisu i oszacowania nieruchomości (co ma zagwarantować uczestnikom postępowania czas na zapoznanie się z warunkami sprzedaży oraz na ewentualne zaskarżenie opisu) ani przed uprawomocnieniem się wyroku, na podstawie którego wszczęto egzekucję (co chroni dłużnika przed sprzedażą nieruchomości na podstawie tytułu, który mógłby jeszcze zostać wzruszony w toku instancji). Paragraf 2, w brzmieniu nadanym nowelizacją z 9 października 2025 r. (Dz. U. poz. 1518), obowiązującą od 5 grudnia 2025 r., wprowadza zasadę, że podstawowym trybem sprzedaży nieruchomości jest licytacja elektroniczna, uregulowana w nowo dodanym rozdziale 6a (art. 986¹–986¹¹). Odstępstwo od tej zasady na rzecz tradycyjnej licytacji publicznej jest możliwe wyłącznie na żądanie wierzyciela, zgłoszone przed uprawomocnieniem się opisu i oszacowania; jeżeli egzekucja z tej samej nieruchomości prowadzona jest na rzecz kilku wierzycieli, wystarczy, że żądanie takie zgłosi którykolwiek z nich, co wyraża preferencję ustawodawcy dla trybu elektronicznego jako bardziej dostępnego i transparentnego, przy jednoczesnym pozostawieniu wierzycielom możliwości wyboru trybu tradycyjnego, gdy uznają go za korzystniejszy dla skuteczności egzekucji.
 
@@ -398,9 +398,9 @@ Przepis otwiera rozdział 6a, wprowadzony do Kodeksu w związku z ustanowieniem 
 
 **Brzmienie przepisu:**
 
-> Art. 986². (uchylony)
+> Art. 986². (uchylony)⁽⁹⁹⁾
 
-*Odnośnik w tekście jednolitym:* Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 98.
+*Odnośnik w tekście jednolitym* 99) Przez art. 1 pkt 2 ustawy, o której mowa w odnośniku 98.
 
 Przepis został uchylony na podstawie art. 1 pkt 2 ustawy nowelizującej z 9 października 2025 r. (Dz. U. poz. 1518), wskazanej w przypisie urzędowym do niniejszego rozdziału.
 
@@ -408,7 +408,7 @@ Przepis został uchylony na podstawie art. 1 pkt 2 ustawy nowelizującej z 9 pa�
 
 **Brzmienie przepisu:**
 
-> Art. 986³. § 1. Jeżeli ma być sprzedanych kilka nieruchomości lub kilka części jednej nieruchomości, komornik zawiadamia o tym fakcie dłużnika oraz poucza go o treści art. 975 i terminie realizacji uprawnienia wynikającego z tego przepisu.
+> Art. 986³. § 1.⁽¹⁰⁰⁾ Jeżeli ma być sprzedanych kilka nieruchomości lub kilka części jednej nieruchomości, komornik zawiadamia o tym fakcie dłużnika oraz poucza go o treści art. 975 i terminie realizacji uprawnienia wynikającego z tego przepisu.
 >
 > § 2. Uprawnienie wynikające z art. 975 dłużnik może zrealizować w terminie tygodnia od dnia doręczenia mu zawiadomienia, o którym mowa w § 1. Po upływie wskazanego terminu kolejność przeprowadzenia przetargu poszczególnych nieruchomości lub ich części określa komornik.
 >
@@ -416,7 +416,7 @@ Przepis został uchylony na podstawie art. 1 pkt 2 ustawy nowelizującej z 9 pa�
 >
 > § 4. Licytacja nie może rozpocząć się wcześniej niż dwa tygodnie od dnia upływu terminu, o którym mowa w § 2 zdanie pierwsze.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 98.
+*Odnośnik w tekście jednolitym* 100) W brzmieniu ustalonym przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 98.
 
 Przepis, w brzmieniu nadanym wspomnianą nowelizacją, reguluje szczególny tryb realizacji uprawnienia dłużnika do wskazania kolejności przetargu kilku nieruchomości lub ich części (art. 975) w warunkach licytacji elektronicznej. Paragraf 1 nakłada na komornika obowiązek zawiadomienia dłużnika o okoliczności, że sprzedaży ma podlegać kilka nieruchomości lub ich części, wraz z pouczeniem o treści art. 975 oraz o terminie realizacji wynikającego z niego uprawnienia. Paragraf 2 wyznacza tygodniowy termin na zrealizowanie tego uprawnienia, liczony od doręczenia zawiadomienia; po jego bezskutecznym upływie kolejność przetargu określa samodzielnie komornik. Paragraf 3 wprowadza zasadę, że przetargi dotyczące różnych nieruchomości lub ich części zajętych w tym samym postępowaniu należy planować w taki sposób, aby nie toczyły się równocześnie, co ma zapobiec rozproszeniu uwagi potencjalnych licytantów i osłabieniu konkurencji ofert; zasada ta nie znajduje zastosowania, jeżeli łączna suma oszacowania tych nieruchomości nie przekracza łącznej wysokości należności wierzycieli egzekwujących i kosztów egzekucyjnych, gdyż w takim wypadku nie ma potrzeby sprzedaży wszystkich nieruchomości, a równoczesne prowadzenie przetargów pozwala szybciej ustalić, które z nich rzeczywiście trzeba sprzedać (por. art. 979). Paragraf 4 wprowadza dodatkową gwarancję czasową: licytacja nie może rozpocząć się wcześniej niż dwa tygodnie od upływu tygodniowego terminu na realizację uprawnienia dłużnika, o którym mowa w § 2, co zapewnia rzeczywistą możliwość zapoznania się uczestników z ustaloną kolejnością przetargu przed jego rozpoczęciem.
 
@@ -450,7 +450,7 @@ Przepis reguluje technologiczne i informacyjne podstawy przeprowadzenia licytacj
 
 **Brzmienie przepisu:**
 
-> Art. 986⁵. § 1. Rękojmię należy złożyć na rachunek bankowy najpóźniej na 2 dni robocze przed rozpoczęciem przetargu. Za datę złożenia rękojmi przyjmuje się dzień uznania rachunku bankowego komornika.
+> Art. 986⁵. § 1.⁽¹⁰¹⁾ Rękojmię należy złożyć na rachunek bankowy najpóźniej na 2 dni robocze przed rozpoczęciem przetargu. Za datę złożenia rękojmi przyjmuje się dzień uznania rachunku bankowego komornika.
 >
 > § 2. Wraz z rękojmią licytant zobowiązany jest do podania w systemie teleinformatycznym danych niezbędnych do wydania postanowienia o przybiciu: numeru PESEL, numeru dokumentu stwierdzającego tożsamość i oświadczenia, czy pozostaje w związku małżeńskim, a jeżeli tak, czy nieruchomość zamierza nabyć do majątku wspólnego czy osobistego, oraz do wskazania, czy licytuje we własnym imieniu czy jako pełnomocnik innej osoby, a także innych danych, jeżeli potrzeba ich podania wynika z przepisów odrębnych ustaw.
 >
@@ -458,7 +458,7 @@ Przepis reguluje technologiczne i informacyjne podstawy przeprowadzenia licytacj
 >
 > § 4. Komornik potwierdza fakt złożenia rękojmi i podania danych, o których mowa w § 2, niezwłocznie po ich otrzymaniu, poprzez dopuszczenie licytanta do udziału w przetargu. O odmowie dopuszczenia do przetargu zawiadamia się zainteresowanego za pośrednictwem systemu teleinformatycznego.
 
-*Odnośnik w tekście jednolitym:* Zdanie trzecie uchylone przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 98; wszedł w życie z dniem 5 lutego 2026 r.
+*Odnośnik w tekście jednolitym* 101) Zdanie trzecie uchylone przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 98; wszedł w życie z dniem 5 lutego 2026 r.
 
 Przepis reguluje warunki dopuszczenia licytanta do udziału w przetargu elektronicznym. Paragraf 1 wyznacza termin złożenia rękojmi na rachunek bankowy — najpóźniej dwa dni robocze przed rozpoczęciem przetargu, przy czym za datę złożenia rękojmi przyjmuje się dzień uznania rachunku bankowego komornika, co eliminuje wątpliwości związane z czasem realizacji przelewu bankowego. Paragraf 2 nakłada na licytanta obowiązek podania w systemie teleinformatycznym, wraz z rękojmią, danych niezbędnych do wydania postanowienia o przybiciu: numeru PESEL, numeru dokumentu tożsamości, oświadczenia co do pozostawania w związku małżeńskim i zamierzonego sposobu nabycia (do majątku wspólnego czy osobistego), a także informacji, czy licytuje we własnym imieniu czy jako pełnomocnik, oraz innych danych wymaganych przepisami odrębnymi. Paragraf 3 przewiduje procedurę uzupełnienia braków — komornik wzywa licytanta do uzupełnienia danych pod rygorem niedopuszczenia do udziału w przetargu, a jeżeli udział wymaga zezwolenia organu władzy publicznej lub wykazania umocowania, do przedłożenia elektronicznych kopii wymaganych dokumentów w terminie 3 dni, nie później niż dzień przed terminem licytacji. Paragraf 4, którego zdanie trzecie zostało uchylone z dniem 5 lutego 2026 r. na podstawie art. 1 pkt 4 ustawy nowelizującej z 9 października 2025 r., nakazuje komornikowi potwierdzenie złożenia rękojmi i danych niezwłocznie po ich otrzymaniu poprzez dopuszczenie licytanta do udziału w przetargu, a o odmowie dopuszczenia zawiadamia się zainteresowanego za pośrednictwem systemu teleinformatycznego; uchylone zdanie trzecie regulowało dodatkowy element tej procedury, którego treść nie jest już częścią obowiązującego stanu prawnego.
 
@@ -852,10 +852,10 @@ Przepis reguluje procedurę zatwierdzenia sprzedaży dokonanej w trybie uproszcz
 
 **Brzmienie przepisu:**
 
-> Art. 1013⁶. § 1. Jeżeli sprzedaż nieruchomości nie nastąpi w trybie sprzedaży z wolnej ręki, nieruchomość podlega sprzedaży w drodze licytacji, do której stosuje się przepisy o licytacji w egzekucji z ruchomości, z tym że licytację przeprowadza się w drodze licytacji elektronicznej, chyba że przed uprawomocnieniem się opisu i oszacowania wierzyciel zażąda sprzedaży w drodze licytacji publicznej. Jeżeli nieruchomość została zajęta na zaspokojenie kilku wierzytelności dochodzonych przez różnych wierzycieli, żądanie takie może zgłosić którykolwiek z wierzycieli. O terminie licytacji komornik zawiadamia uczestników postępowania stosownie do art. 954. W obwieszczeniu o licytacji podaje się także informacje, o których mowa w art. 953 § 1 pkt 1, 3, 6 i 7.
+> Art. 1013⁶. § 1.⁽¹⁰²⁾ Jeżeli sprzedaż nieruchomości nie nastąpi w trybie sprzedaży z wolnej ręki, nieruchomość podlega sprzedaży w drodze licytacji, do której stosuje się przepisy o licytacji w egzekucji z ruchomości, z tym że licytację przeprowadza się w drodze licytacji elektronicznej, chyba że przed uprawomocnieniem się opisu i oszacowania wierzyciel zażąda sprzedaży w drodze licytacji publicznej. Jeżeli nieruchomość została zajęta na zaspokojenie kilku wierzytelności dochodzonych przez różnych wierzycieli, żądanie takie może zgłosić którykolwiek z wierzycieli. O terminie licytacji komornik zawiadamia uczestników postępowania stosownie do art. 954. W obwieszczeniu o licytacji podaje się także informacje, o których mowa w art. 953 § 1 pkt 1, 3, 6 i 7.
 >
 > § 2. Po zapłaceniu przez nabywcę sumy sąd niezwłocznie wydaje postanowienie o przysądzeniu własności. Po uprawomocnieniu się tego postanowienia komornik sporządza plan podziału sumy uzyskanej z egzekucji.
 
-*Odnośnik w tekście jednolitym:* W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 98.
+*Odnośnik w tekście jednolitym* 102) W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 98.
 
 Przepis zamyka dział VIA, regulując tryb licytacyjny jako subsydiarny sposób sprzedaży nieruchomości w ramach uproszczonej egzekucji, stosowany, gdy sprzedaż z wolnej ręki nie dojdzie do skutku. Paragraf 1, w brzmieniu nadanym nowelizacją z 9 października 2025 r., przewiduje, że w takim wypadku nieruchomość podlega sprzedaży w drodze licytacji, do której stosuje się przepisy o licytacji w egzekucji z ruchomości (a nie przepisy o licytacji nieruchomości z rozdziałów 4–7, co stanowi istotne uproszczenie procedury), z tym że licytację przeprowadza się w drodze licytacji elektronicznej, chyba że przed uprawomocnieniem się opisu i oszacowania wierzyciel zażąda sprzedaży w drodze licytacji publicznej (analogicznie do zasady wyrażonej w art. 952 § 2 dla ogólnej egzekucji z nieruchomości); przy wielości wierzycieli żądanie takie może zgłosić którykolwiek z nich. O terminie licytacji komornik zawiadamia uczestników postępowania stosownie do art. 954, a w obwieszczeniu o licytacji podaje się dodatkowo informacje, o których mowa w art. 953 § 1 pkt 1, 3, 6 i 7 (a więc oznaczenie nieruchomości, sumę oszacowania i cenę wywołania, prawa obciążające nieruchomość utrzymane w mocy oraz zmiany w stanie faktycznym i prawnym nieruchomości) — mimo odesłania do przepisów o licytacji ruchomości, ustawodawca zachowuje więc dla nieruchomości elementy informacyjne swoiste dla tego przedmiotu egzekucji. Paragraf 2 upraszcza także końcowy etap postępowania — po zapłaceniu przez nabywcę sumy sąd niezwłocznie wydaje postanowienie o przysądzeniu własności, bez odrębnego etapu przybicia znanego z ogólnej procedury egzekucji z nieruchomości, a po uprawomocnieniu się tego postanowienia komornik sporządza plan podziału sumy uzyskanej z egzekucji — całość regulacji potwierdza cel działu VIA, jakim jest istotne skrócenie i uproszczenie procedury sprzedaży egzekucyjnej nieruchomości o niższym stopniu skomplikowania, przy zachowaniu podstawowych gwarancji proceduralnych dla dłużnika i uczestników postępowania.
