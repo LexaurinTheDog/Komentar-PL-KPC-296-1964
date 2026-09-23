@@ -209,12 +209,10 @@ Przepis reguluje instytucję wstrzymania wykonania wyroku sądu polubownego prze
 **Brzmienie przepisu:**
 
 > Art. 1211. Uchylenie wyroku sądu polubownego nie powoduje wygaśnięcia zapisu na sąd polubowny, chyba że strony postanowiły inaczej.
->
-> Uznanie i stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej
 
 Przepis wyjaśnia relację między uchyleniem wyroku sądu polubownego a losem zapisu na sąd polubowny, stanowiącego podstawę jurysdykcji arbitrażowej. Zasadą jest, że uchylenie wyroku nie powoduje wygaśnięcia zapisu na sąd polubowny, co oznacza, iż spór między stronami – mimo wyeliminowania z obrotu wadliwego wyroku arbitrażowego – w dalszym ciągu może, a co do zasady powinien, zostać rozstrzygnięty w drodze arbitrażu, a nie przed sądem powszechnym; rozwiązanie to jest wyrazem poszanowania pierwotnej woli stron wyrażonej w umowie arbitrażowej i chroni przed obchodzeniem zapisu na sąd polubowny przez doprowadzenie do uchylenia niekorzystnego wyroku. Ustawodawca dopuszcza jednak odstępstwo od tej zasady, jeżeli strony postanowiły inaczej – a więc jeśli w zapisie na sąd polubowny lub w innym porozumieniu przewidziały, że uchylenie wyroku prowadzi do wygaśnięcia zapisu, co otworzy im drogę sądową przed sądem powszechnym.
 
-#### TYTUŁ VIII
+#### TYTUŁ VIII — Uznanie i stwierdzenie wykonalności wyroku sądu polubownego lub ugody przed nim zawartej
 
 ### Art. 1212
 

@@ -293,12 +293,10 @@ Przepis reguluje techniczną stronę wypłaty kwot wyegzekwowanych i zdeponowany
 > Art. 1032. § 1. Należność przypadającą wierzycielowi niemającemu jeszcze tytułu wykonawczego pozostawia się na rachunku depozytowym Ministra Finansów.
 >
 > § 2. Jeżeli w ciągu miesiąca po uprawomocnieniu się planu podziału wierzyciel niemający tytułu wykonawczego nie przedstawi dowodu wytoczenia powództwa o zasądzenie mu roszczenia, traci prawo do sumy pozostającej w depozycie.
->
-> Podział sumy uzyskanej przez egzekucję z ruchomości, wierzytelności i innych praw majątkowych
 
 Przepis chroni sytuację wierzyciela, który uczestniczy w podziale, lecz nie dysponuje jeszcze tytułem wykonawczym (np. zgłosił zabezpieczenie powództwa przed uzyskaniem tytułu). Paragraf 1 nakazuje pozostawienie przypadającej mu należności na rachunku depozytowym Ministra Finansów, zamiast jej wypłaty. Paragraf 2 wprowadza sankcję za bezczynność takiego wierzyciela – jeżeli w ciągu miesiąca od uprawomocnienia się planu podziału nie przedstawi on dowodu wytoczenia powództwa o zasądzenie roszczenia, traci prawo do zdeponowanej sumy, co przywraca ją do dyspozycji pozostałych uczestników podziału lub dłużnika. Przepis realizuje więc zasadę, że tymczasowe zabezpieczenie interesu wierzyciela bez tytułu wykonawczego nie może trwać bezterminowo i jest uzależnione od aktywnego dochodzenia przez niego roszczenia na drodze sądowej.
 
-#### Rozdział 3
+#### Rozdział 3 — Podział sumy uzyskanej przez egzekucję z ruchomości, wierzytelności i innych praw majątkowych
 
 ### Art. 1033
 

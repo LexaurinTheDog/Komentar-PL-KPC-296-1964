@@ -488,6 +488,8 @@ Przepis określa właściwość wyłączną sądu spadku dla czynności w postę
 
 Przepis został uchylony; kwestie właściwości i przebiegu postępowania spadkowego reguluje dziś ogólny art. 628 oraz przepisy szczególne poszczególnych rozdziałów działu IV.
 
+#### (oznaczenie rozdziału 1 i tytuł oraz oznaczenie oddziału 1 i tytuł – uchylone)
+
 ### Art. 630
 
 **Brzmienie przepisu:**

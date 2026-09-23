@@ -363,12 +363,10 @@ Przepis reguluje sposób realizacji wynagrodzenia przyznanego opiekunowi za spra
 > Art. 598. § 1. Sąd opiekuńczy może wymierzyć grzywnę osobie, która uchyla się od objęcia opieki.
 >
 > § 2. Sąd opiekuńczy może wymierzyć grzywnę opiekunowi, który nie wykonuje zarządzeń sądu opiekuńczego. Jeżeli zarządzenie zostanie wykonane, grzywna jeszcze nieuiszczona może być umorzona.
->
-> Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
 
 Przepis wprowadza sankcje dyscyplinujące w postaci grzywny, mające zapewnić prawidłowe funkcjonowanie instytucji opieki. Paragraf 1 przewiduje możliwość wymierzenia grzywny osobie, która uchyla się od objęcia opieki pomimo ustanowienia jej opiekunem i braku zwolnienia z tego obowiązku w trybie art. 592 – jest to środek przymuszający, mający zapobiec sytuacji, w której osoba wyznaczona na opiekuna faktycznie nie podejmuje swoich obowiązków, pozostawiając podopiecznego bez rzeczywistej opieki. Paragraf 2 przewiduje analogiczną możliwość wymierzenia grzywny opiekunowi, który nie wykonuje zarządzeń sądu opiekuńczego wydanych w toku sprawowanego nadzoru nad opieką, z zastrzeżeniem, że grzywna jeszcze nieuiszczona może zostać umorzona, jeżeli zarządzenie zostanie ostatecznie wykonane – rozwiązanie to nadaje grzywnie z § 2 charakter środka przymuszającego do konkretnego zachowania, a nie czysto represyjnej sankcji, skoro jej celem jest wymuszenie wykonania zarządzenia, a nie ukaranie za samo uchybienie.
 
-#### Oddział 5
+#### Oddział 5 — Sprawy o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką
 
 ### Art. 598¹
 

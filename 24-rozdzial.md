@@ -305,12 +305,10 @@ Przepis zamyka rozdział poświęcony egzekucji przez sprzedaż przedsiębiorstw
 **Brzmienie przepisu:**
 
 > Art. 1065. (uchylony)
->
-> Egzekucja w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej
 
 Przepis został uchylony. Znajdująca się bezpośrednio pod nim w tekście jednolitym fraza „Egzekucja w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej” nie stanowi już odrębnej jednostki redakcyjnej wywołującej skutki normatywne, lecz przetrwały w tekście jednolitym ślad dawnego nagłówka, którego rzeczywistą funkcję przejęła obecnie wyodrębniona jednostka systematyzacyjna „DZIAŁ III” wraz z następującymi po niej art. 1066 i n., regulującymi tę samą materię.
 
-#### DZIAŁ III
+#### DZIAŁ III — Egzekucja w celu zniesienia współwłasności nieruchomości w drodze sprzedaży publicznej
 
 ### Art. 1066
 
@@ -451,14 +449,12 @@ Przepis wprowadza szczególny środek ochrony wierzyciela alimentacyjnego przed 
 **Brzmienie przepisu:**
 
 > Art. 1088. Do egzekucji świadczeń alimentacyjnych stosuje się również przepisy tytułu drugiego.
->
-> PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA CYWILNEGO
 
 Przepis stanowi klauzulę odsyłającą, na mocy której do egzekucji świadczeń alimentacyjnych stosuje się również przepisy tytułu drugiego (a więc ogólne przepisy o egzekucji świadczeń pieniężnych, w zakresie nieuregulowanym odmiennie przepisami niniejszego działu o szczególnych ułatwieniach dla wierzycieli alimentacyjnych). Umieszczony bezpośrednio pod przepisem zwrot „PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA CYWILNEGO” nie stanowi odrębnej jednostki redakcyjnej wywołującej skutki normatywne, lecz zapowiedź kolejnej, obszernej części ustawy (części czwartej Kodeksu), do której odnoszą się następujące po niej jednostki systematyzacyjne.
 
 #### DZIAŁ VI — (zawierający art. 1089–1095¹ – uchylony)
 
-#### CZĘŚĆ CZWARTA
+#### CZĘŚĆ CZWARTA — PRZEPISY Z ZAKRESU MIĘDZYNARODOWEGO POSTĘPOWANIA CYWILNEGO — (Przepis wstępny – uchylone)
 
 ### Art. 1096
 
@@ -523,6 +519,8 @@ Przepis reguluje procesowe skutki braku jurysdykcji krajowej. Paragraf 1 nakazuj
 > § 2. W razie prawomocnego ustalenia przez sąd, że orzeczenie sądu lub innego organu państwa obcego nie podlega uznaniu w Rzeczypospolitej Polskiej, sprawa rozstrzygnięta tym orzeczeniem należy do jurysdykcji krajowej mimo braku podstaw uzasadniających tę jurysdykcję, jeżeli wykazuje wystarczający związek z polskim porządkiem prawnym.
 
 Przepis wprowadza tzw. jurysdykcję konieczną (forum necessitatis) jako subsydiarną podstawę jurysdykcji krajowej sądów polskich, mającą zapobiec odmowie wymiaru sprawiedliwości w sprawach niepodlegających jurysdykcji polskiej na zasadach ogólnych. Paragraf 1 przewiduje, że jeżeli brak jest podstaw uzasadniających jurysdykcję krajową, a przeprowadzenie postępowania przed sądem lub innym organem państwa obcego nie jest możliwe albo nie można od strony wymagać jego przeprowadzenia (np. z uwagi na sytuację polityczną, brak dostępu do sądu w danym państwie czy nadmierne trudności praktyczne), sprawa mimo to należy do jurysdykcji krajowej, o ile wykazuje wystarczający związek z polskim porządkiem prawnym – klauzula ta pełni funkcję gwarancyjną, zapewniając stronie dostęp do sądu zgodnie ze standardami konstytucyjnymi i konwencyjnymi (prawo do sądu). Paragraf 2 rozciąga tę konstrukcję na sytuację następczą, w której orzeczenie sądu lub innego organu państwa obcego, wydane w sprawie objętej prawomocnie stwierdzonym brakiem podstaw jego uznania w Polsce, nie może wywołać skutków w polskim porządku prawnym – w takim wypadku sprawa rozstrzygnięta tym nieuznawalnym orzeczeniem należy do jurysdykcji krajowej mimo braku zwykłych podstaw tej jurysdykcji, jeżeli wykazuje wystarczający związek z polskim porządkiem prawnym, co pozwala na ponowne rozpoznanie sprawy przez sąd polski zamiast pozostawienia strony bez możliwości uzyskania skutecznej ochrony prawnej.
+
+#### (oznaczenie oraz tytuł Tytułu II – uchylone)
 
 ### Art. 1100
 

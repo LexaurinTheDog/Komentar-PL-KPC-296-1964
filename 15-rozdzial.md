@@ -1,5 +1,7 @@
 # Rozdział komentarza 15 — Sprawy spadkowe, depozytowe, rejestrowe oraz odtworzenie zaginionych akt (art. 655 – art. 729)
 
+#### (oznaczenie rozdziału 2 i tytuł tego rozdziału – uchylone)
+
 #### Rozdział 4 — Wyjawienie przedmiotów spadkowych
 
 ### Art. 655

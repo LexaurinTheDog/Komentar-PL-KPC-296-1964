@@ -81,12 +81,10 @@ Przepis otwiera dział IIB, dotyczący stwierdzenia wykonalności europejskiego 
 **Brzmienie przepisu:**
 
 > Art. 795⁷. Na postanowienie w przedmiocie stwierdzenia wykonalności przysługuje zażalenie.
->
-> Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
 
 Przepis przyznaje zażalenie na postanowienie w przedmiocie stwierdzenia wykonalności europejskiego nakazu zapłaty, zapewniając kontrolę instancyjną rozstrzygnięcia wydanego z urzędu na podstawie art. 795⁶. Zażalenie to może wnieść zarówno wierzyciel, gdy sąd odmówił stwierdzenia wykonalności lub uczynił to z opóźnieniem naruszającym jego interes, jak i dłużnik, jeżeli kwestionuje spełnienie przesłanek rozporządzenia nr 1896/2006. Umieszczony pod przepisem śródtytuł „Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń” zapowiada kolejną jednostkę redakcyjną — dział IIC — i nie stanowi elementu normatywnego samego art. 795⁷.
 
-#### DZIAŁ IIC
+#### DZIAŁ IIC — Zaświadczenie dotyczące orzeczenia wydanego w europejskim postępowaniu w sprawie drobnych roszczeń
 
 ### Art. 795⁸
 
@@ -103,12 +101,10 @@ Przepis otwiera dział IIC i reguluje wydawanie zaświadczenia dotyczącego orze
 **Brzmienie przepisu:**
 
 > Art. 795⁹. Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.
->
-> Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
 
 Przepis przyznaje zażalenie na postanowienie w przedmiocie wydania zaświadczenia, o którym mowa w art. 795⁸, zapewniając kontrolę instancyjną decyzji zarówno pozytywnej, jak i odmownej. Umieszczony pod przepisem śródtytuł „Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych” zapowiada kolejną jednostkę redakcyjną — dział IID — i nie stanowi elementu normatywnego samego art. 795⁹.
 
-#### DZIAŁ IID
+#### DZIAŁ IID — Zaświadczenia dotyczące orzeczeń, ugód i innych tytułów egzekucyjnych w sprawach cywilnych i handlowych
 
 ### Art. 795¹⁰
 
@@ -129,12 +125,10 @@ Przepis otwiera dział IID i reguluje wydawanie zaświadczeń na podstawie rozpo
 **Brzmienie przepisu:**
 
 > Art. 795¹¹. Na postanowienie w przedmiocie wydania zaświadczenia przysługuje zażalenie.
->
-> Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących
 
 Przepis przyznaje zażalenie na postanowienie w przedmiocie wydania zaświadczenia, o którym mowa w art. 795¹⁰, obejmujące zarówno rozstrzygnięcie pozytywne, jak i odmowę wydania zaświadczenia. Umieszczony pod przepisem śródtytuł „Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących” zapowiada tematykę kolejnej jednostki redakcyjnej — działu IIDA, dotyczącego odpowiedzialności rodzicielskiej — i nie stanowi elementu normatywnego samego art. 795¹¹.
 
-#### DZIAŁ IIDA
+#### DZIAŁ IIDA — Zaświadczenia dotyczące orzeczeń w sprawach małżeńskich oraz w sprawach dotyczących — odpowiedzialności rodzicielskiej
 
 ### Art. 795¹¹ᵃ
 
@@ -187,12 +181,10 @@ Przepis otwiera dział IIE i reguluje wydawanie wyciągów z orzeczeń, ugód i 
 **Brzmienie przepisu:**
 
 > Art. 795¹³. Na postanowienie o odmowie wydania wyciągu wnioskodawcy przysługuje zażalenie. Odpisu zażalenia nie doręcza się przeciwnikowi.
->
-> Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
 
 Przepis przyznaje zażalenie na postanowienie o odmowie wydania wyciągu, o którym mowa w art. 795¹², przy czym legitymowanym do jego wniesienia jest wyłącznie wnioskodawca (wierzyciel alimentacyjny lub dłużnik, w zależności od tego, kto wystąpił z wnioskiem), a odpisu zażalenia nie doręcza się przeciwnikowi — rozwiązanie analogiczne do art. 795³ § 2, uzasadnione jednostronnym charakterem postępowania w przedmiocie wydania wyciągu oraz szczególną wrażliwością spraw alimentacyjnych, w których szybkość uzyskania tytułu wykonywalnego za granicą ma istotne znaczenie dla zaspokojenia bieżących potrzeb uprawnionego. Umieszczony pod przepisem śródtytuł „Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych” zapowiada tematykę kolejnego działu — IIF.
 
-#### DZIAŁ IIF
+#### DZIAŁ IIF — Zaświadczenia dotyczące orzeczeń obejmujących środki ochrony w sprawach cywilnych
 
 ### Art. 795¹⁴
 

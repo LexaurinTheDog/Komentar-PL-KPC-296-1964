@@ -719,14 +719,12 @@ Przepis przyznaje zażalenie na postanowienie sądu wydane w wypadkach określon
 **Brzmienie przepisu:**
 
 > Art. 1144¹³. W sprawach, o których mowa w art. 39 ust. 2 rozporządzenia nr 655/2014, przepisy art. 841 i art. 843 § 1 i 3 stosuje się odpowiednio.
->
-> Uznanie orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych
 
 Przepis reguluje ochronę prawną dłużnika w sprawach, o których mowa w art. 39 ust. 2 rozporządzenia nr 655/2014 (dotyczącym środków zaskarżenia przysługujących dłużnikowi w państwie członkowskim wykonania, odrębnych od środków zaskarżenia w państwie wydania nakazu). W tych sprawach odpowiednie zastosowanie znajdują art. 841 (powództwo ekscydencyjne, dotyczące zwolnienia zajętego przedmiotu od egzekucji) oraz art. 843 § 1 i 3 (regulujące elementy pozwu przeciwegzekucyjnego oraz kwestie związane z jego wniesieniem). Rozwiązanie to zapewnia dłużnikowi, wobec którego egzekucja europejskiego nakazu zabezpieczenia wykonywana jest w Polsce, dostęp do sprawdzonych, krajowych instrumentów ochrony prawnej znanych postępowaniu egzekucyjnemu, zamiast tworzenia odrębnej, nowej procedury.
 
 #### KSIĘGA TRZECIA — UZNANIE I STWIERDZENIE WYKONALNOŚCI
 
-#### TYTUŁ I
+#### TYTUŁ I — Uznanie orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych
 
 ### Art. 1145
 
@@ -813,12 +811,10 @@ Przepis rozciąga w drodze odesłania stosowanie art. 170 (dotyczącego mocy wi�
 **Brzmienie przepisu:**
 
 > Art. 1149¹. Przepisy tytułu niniejszego stosuje się odpowiednio do rozstrzygnięć innych organów państw obcych wydanych w sprawach cywilnych.
->
-> Wykonalność orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych
 
 Przepis zamyka tytuł I księgi trzeciej klauzulą rozszerzającą, nakazującą odpowiednie stosowanie całości przepisów tego tytułu (art. 1145–1149) do rozstrzygnięć innych organów państw obcych wydanych w sprawach cywilnych, a nie tylko do orzeczeń sądów w ścisłym znaczeniu. Rozwiązanie to uwzględnia zróżnicowanie systemów prawnych, w których niektóre kategorie spraw cywilnych mogą być rozstrzygane przez organy pozasądowe (np. administracyjne czy notarialne), zapewniając im równorzędne traktowanie w zakresie uznania w Polsce, o ile spełniają analogiczne przesłanki.
 
-#### TYTUŁ II
+#### TYTUŁ II — Wykonalność orzeczeń sądów państw obcych lub rozstrzygnięć innych organów państw obcych — oraz ugód zawartych przed takimi sądami i organami lub przez nie zatwierdzonych
 
 ### Art. 1150
 
@@ -891,7 +887,5 @@ Przepis rozszerza reżim stwierdzania wykonalności na ugody w sprawach cywilnyc
 **Brzmienie przepisu:**
 
 > Art. 1153. (uchylony)
->
-> UZNANIE I WYKONANIE NIEKTÓRYCH ORZECZEŃ SĄDÓW PAŃSTW CZŁONKOWSKICH
 
 Przepis został uchylony. W poprzednim stanie prawnym zamykał tytuł II księgi trzeciej i wprowadzał zapewne przepis przejściowy lub odesłanie związane z wejściem w życie przepisów o wykonalności orzeczeń zagranicznych; jego dotychczasowa treść nie ma obecnie odpowiednika w tym miejscu kodeksu, a po nim następuje kolejna jednostka systematyczna dotycząca uznania i wykonania niektórych orzeczeń sądów państw członkowskich Unii Europejskiej.
